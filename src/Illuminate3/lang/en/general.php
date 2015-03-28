@@ -1,0 +1,119 @@
+<?php
+
+// general
+
+
+return [
+
+	'active'						=> 'Active',
+	'activate'						=> 'Activate',
+	'activated'						=> 'Activated',
+	'action'						=> 'Action',
+	'activity'						=> 'Activity',
+	'administration'				=> 'Administration',
+	'assets'						=> 'Assets',
+	'assigned'						=> 'Assigned',
+	'available'						=> 'Available',
+	'back'							=> 'Back',
+	'banned'						=> 'Banned',
+	'blocked'						=> 'Blocked',
+	'category'						=> 'Category',
+	'categories'					=> 'Categories',
+	'close'							=> 'Close',
+	'confirmed'						=> 'Confirmed',
+	'contact'						=> 'Contact',
+	'contact_support'				=> 'Contact Support',
+	'create'						=> 'Create',
+	'created_at'					=> 'Created',
+	'create_category'				=> 'Create Category',
+	'create_event'					=> 'Create Event',
+	'create_page'					=> 'Create Page',
+	'create_post'					=> 'Create Post',
+	'dashboard'						=> 'Dashboard',
+	'date_activated'				=> 'Date Activated',
+	'deactivate'					=> 'Deactivate',
+	'description'					=> 'Description',
+	'disabled'						=> 'Disabled',
+	'enabled'						=> 'Enabled',
+	'email'							=> 'Email',
+	'error'							=> 'Error',
+	'export'						=> 'Export',
+	'help'							=> 'Help',
+	'home'							=> 'Home',
+	'import'						=> 'Import',
+	'information'					=> 'Information',
+	'introduction'					=> 'Introduction',
+	'items'							=> 'Items',
+	'joined'						=> 'Joined',
+	'last_login'					=> 'Last Login',
+	'last_visit'					=> 'Last Visit',
+	'manage'						=> 'Manage',
+	'module'						=> 'Module',
+	'name'							=> 'Name',
+	'never_activated'				=> 'Never Activated',
+	'never_visited'					=> 'Never Visited',
+	'no'							=> 'No',
+	'notes'							=> 'Notes',
+	'none'							=> 'None',
+	'no_records'					=> 'There are no records.',
+	'personal_information'			=> 'Personal Information',
+	'resource'						=> 'Resource',
+	'room'							=> 'Room|Rooms',
+	'settings'						=> 'Settings',
+	'slug'							=> 'Slug',
+	'staff'							=> 'Staff',
+	'status'						=> 'Status',
+	'success'						=> 'Success',
+	'super_user'					=> 'Super User',
+	'verified'						=> 'Verified',
+	'version'						=> 'Version',
+	'view'							=> 'View',
+	'view_logs'						=> 'View Logs',
+	'website'						=> 'Web Site',
+	'yes'							=> 'Yes',
+
+// ask
+	'ask' => [
+		'create'					=> 'Continue?',
+		'edit'						=> 'Continue?',
+		'delete'					=> 'Continue?',
+		'update'					=> 'Continue?',
+	],
+
+// command
+	'command' => [
+		'create'					=> 'Create',
+		'edit'						=> 'Edit',
+		'delete'					=> 'Delete',
+		'move'						=> 'Move',
+		'select'					=> 'Select',
+		'select_a'					=> 'Select a',
+		'select_an'					=> 'Select an',
+		'update'					=> 'Update',
+	],
+
+// error
+	'error' => [
+		'create'					=> 'There was an issue creating the Record. Please try again.',
+		'delete'					=> 'There was an issue deleting the Record. Please try again.',
+		'exists'					=> 'The Record already exists!',
+		'forbidden'					=> 'Access is Forbidden.',
+		'name_required'				=> 'The Record Name Field is Required.',
+		'not_exist'					=> 'The Record [:id] does not exist.',
+		'not_found'					=> 'No Records found.',
+		'update'					=> 'There was an issue updating the Record. Please try again.',
+	],
+
+// presenter
+	'presenter' => [
+		'exception'					=> 'Please set the [:presenter] property to your presenter class.',
+	],
+
+// success
+	'success' => [
+		'status_create'				=> 'The Status was successfully created.',
+		'status_update'				=> 'The Status was successfully updated.',
+	],
+
+
+];
