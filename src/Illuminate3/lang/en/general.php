@@ -114,6 +114,8 @@ return [
 
 // success
 	'success' => [
+		'category_create'			=> 'The Category was successfully created.',
+		'category_update'			=> 'The Category was successfully updated.',
 		'status_create'				=> 'The Status was successfully created.',
 		'status_update'				=> 'The Status was successfully updated.',
 	],
