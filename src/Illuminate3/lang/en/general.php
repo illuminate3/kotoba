@@ -17,8 +17,8 @@ return [
 	'back'							=> 'Back',
 	'banned'						=> 'Banned',
 	'blocked'						=> 'Blocked',
-	'category'						=> 'Category',
-	'categories'					=> 'Categories',
+	'back'							=> 'Back',
+	'category'						=> 'Category|Categories',
 	'close'							=> 'Close',
 	'confirmed'						=> 'Confirmed',
 	'contact'						=> 'Contact',
@@ -56,6 +56,7 @@ return [
 	'notes'							=> 'Notes',
 	'none'							=> 'None',
 	'no_records'					=> 'There are no records.',
+	'parent'						=> 'Parent',
 	'personal_information'			=> 'Personal Information',
 	'resource'						=> 'Resource',
 	'room'							=> 'Room|Rooms',
@@ -65,6 +66,7 @@ return [
 	'status'						=> 'Status',
 	'success'						=> 'Success',
 	'super_user'					=> 'Super User',
+	'title'							=> 'Title',
 	'verified'						=> 'Verified',
 	'version'						=> 'Version',
 	'view'							=> 'View',
@@ -94,6 +96,7 @@ return [
 
 // error
 	'error' => [
+		'category'					=> 'Sorry, but requested category doesn\'t exists.',
 		'create'					=> 'There was an issue creating the Record. Please try again.',
 		'delete'					=> 'There was an issue deleting the Record. Please try again.',
 		'exists'					=> 'The Record already exists!',
