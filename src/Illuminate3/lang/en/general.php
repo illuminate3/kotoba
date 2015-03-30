@@ -97,6 +97,7 @@ return [
 // error
 	'error' => [
 		'category'					=> 'Sorry, but requested category doesn\'t exists.',
+		'category_move'				=> 'Sorry, the category did not move.',
 		'create'					=> 'There was an issue creating the Record. Please try again.',
 		'delete'					=> 'There was an issue deleting the Record. Please try again.',
 		'exists'					=> 'The Record already exists!',
@@ -114,6 +115,7 @@ return [
 
 // success
 	'success' => [
+		'category_move'				=> 'The category has been successfully moved.',
 		'category_create'			=> 'The Category was successfully created.',
 		'category_update'			=> 'The Category was successfully updated.',
 		'status_create'				=> 'The Status was successfully created.',
