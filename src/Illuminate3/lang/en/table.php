@@ -22,6 +22,7 @@ return [
 	'first_name'					=> 'First Name',
 	'groups'						=> 'Groups',
 	'id'							=> 'ID',
+	'image'							=> 'Image',
 	'item_number'					=> 'Item #',
 	'job_title'						=> 'Job Title',
 	'last_name'						=> 'Last Name',
