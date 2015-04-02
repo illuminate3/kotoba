@@ -5,7 +5,6 @@
 
 return [
 
-	'barcode'						=> 'Barcode',
 	'contact_information'			=> 'Contact Information',
 	'department'					=> 'Department|Departments',
 	'division'						=> 'Division|Divisions',
