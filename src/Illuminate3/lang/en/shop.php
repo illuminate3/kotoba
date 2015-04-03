@@ -51,6 +51,8 @@ return [
 
 // success
 	'success' => [
+		'item_create'				=> 'The Item was successfully created.',
+		'item_update'				=> 'The Item was successfully updated.',
 // 		'create'					=> 'The Module was successfully created.',
 // 		'delete'					=> 'The Module was successfully deleted.',
 // 		'update'					=> 'The Module was successfully updated.',
