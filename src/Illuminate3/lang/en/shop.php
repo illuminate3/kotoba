@@ -7,11 +7,14 @@ return [
 
 	'asset'							=> 'Asset|Assets',
 	'asset_status'					=> 'Asset Status|Asset Statuses',
+	''						=> 'Asset Tag',
 	'barcode'						=> 'Barcode',
 	'item'							=> 'Item|Items',
 	'make'							=> 'Make',
 	'model'							=> 'Model',
 	'model_number'					=> 'Model Number',
+	'po'							=> 'PO #',
+	'serial'						=> 'Serial #',
 
 // ask
 	'ask' => [
