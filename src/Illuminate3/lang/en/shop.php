@@ -14,6 +14,7 @@ return [
 	'model'							=> 'Model',
 	'model_number'					=> 'Model Number',
 	'po'							=> 'PO #',
+	'scan'							=> 'Scan|Scans',
 	'serial'						=> 'Serial #',
 	'tech_status'					=> 'Tech Status|Tech Statuses',
 
