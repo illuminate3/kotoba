@@ -23,6 +23,7 @@ return [
 	'reset'							=> 'Reset',
 	'save'							=> 'Save',
 	'save_changes'					=> 'Save Changes',
+	'search'						=> 'Search',
 	'send'							=> 'Send',
 	'sign_in'						=> 'Sign In',
 	'sign_on'						=> 'Sign On',

@@ -21,6 +21,8 @@ return [
 	'site'							=> 'Site|Sites',
 	'subject'						=> 'Subject|Subjects',
 	'supervisor'					=> 'Supervisor',
+	'staff'							=> 'Staff',
+	'teacher'						=> 'Teacher|Teachers',
 
 // ask
 	'ask' => [
