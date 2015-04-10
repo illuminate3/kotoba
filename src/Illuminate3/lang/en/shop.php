@@ -50,7 +50,7 @@ return [
 // 		'installed'					=> 'Already installed!',
 // 		'name_required'				=> 'The Name Field is Required.',
 // 		'not_exist'					=> 'Module [:id] does not exist.',
-// 		'not_found'					=> 'No Modules found.',
+		'not_found'					=> 'Not found.',
 // 		'update'					=> 'There was an issue updating the Module. Please try again.',
 	],
 
