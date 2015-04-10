@@ -42,7 +42,6 @@ return [
 	'import'						=> 'Import',
 	'information'					=> 'Information',
 	'introduction'					=> 'Introduction',
-	'items'							=> 'Items',
 	'joined'						=> 'Joined',
 	'last_login'					=> 'Last Login',
 	'last_visit'					=> 'Last Visit',
