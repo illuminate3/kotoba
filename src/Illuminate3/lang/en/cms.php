@@ -1,22 +1,12 @@
 <?php
 
-// shop
+// cms
 
 
 return [
 
-	'asset'							=> 'Asset|Assets',
-	'asset_status'					=> 'Asset Status|Asset Statuses',
-	'asset_tag'						=> 'Asset Tag',
-	'barcode'						=> 'Barcode',
-	'item'							=> 'Item|Items',
-	'make'							=> 'Make',
-	'model'							=> 'Model',
-	'model_number'					=> 'Model Number',
-	'po'							=> 'PO #',
-	'scan'							=> 'Scan|Scans',
-	'serial'						=> 'Serial #',
-	'tech_status'					=> 'Tech Status|Tech Statuses',
+	'page'							=> 'Page|Pages',
+	'print_status'					=> 'Print Status|Print Statuses',
 
 // ask
 	'ask' => [
