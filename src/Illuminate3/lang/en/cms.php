@@ -5,8 +5,20 @@
 
 return [
 
+	'body'							=> 'Body',
+	'in_print'						=> 'in Print',
+	'is_featured'					=> 'Featured',
+	'is_published'					=> 'Publish',
+	'locale'						=> 'Locale',
+	'meta_description'				=> 'Description',
+	'meta_keywords'					=> 'Keywords',
+	'meta_title'					=> 'Title',
 	'page'							=> 'Page|Pages',
 	'print_status'					=> 'Print Status|Print Statuses',
+	'publish_end'					=> 'Publish End',
+	'publish_start'					=> 'Publish Start',
+	'summary'						=> 'Summary',
+	'uri'							=> 'URI',
 
 // ask
 	'ask' => [
