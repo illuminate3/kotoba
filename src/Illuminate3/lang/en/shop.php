@@ -13,6 +13,7 @@ return [
 	'make'							=> 'Make',
 	'model'							=> 'Model',
 	'model_number'					=> 'Model Number',
+	'option'						=> 'Option|Options',
 	'po'							=> 'PO #',
 	'scan'							=> 'Scan|Scans',
 	'serial'						=> 'Serial #',

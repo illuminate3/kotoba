@@ -6,10 +6,12 @@
 return [
 
 	'body'							=> 'Body',
+	'content'						=> 'Content',
 	'in_print'						=> 'in Print',
 	'is_featured'					=> 'Featured',
 	'is_published'					=> 'Publish',
 	'locale'						=> 'Locale',
+	'meta'							=> 'Meta',
 	'meta_description'				=> 'Description',
 	'meta_keywords'					=> 'Keywords',
 	'meta_title'					=> 'Title',
