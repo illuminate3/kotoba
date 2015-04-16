@@ -6,6 +6,7 @@
 return [
 
 	'action'						=> 'Action',
+	'admin'							=> 'Administrator',
 	'back'							=> 'Back',
 	'create'						=> 'Create',
 	'cancel'						=> 'Cancel',
