@@ -10,6 +10,7 @@ return [
 	'in_print'						=> 'in Print',
 	'is_featured'					=> 'Featured',
 	'is_published'					=> 'Publish',
+	'link'							=> 'Link',
 	'locale'						=> 'Locale',
 	'meta'							=> 'Meta',
 	'meta_description'				=> 'Description',
@@ -20,6 +21,7 @@ return [
 	'publish_end'					=> 'Publish End',
 	'publish_start'					=> 'Publish Start',
 	'summary'						=> 'Summary',
+	'tenant'						=> 'Tenant',
 	'uri'							=> 'URI',
 
 // ask
