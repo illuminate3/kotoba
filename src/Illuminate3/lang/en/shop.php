@@ -10,6 +10,8 @@ return [
 	'asset_tag'						=> 'Asset Tag',
 	'card'							=> 'Credit Card',
 	'card_number'					=> 'Credit Card Number',
+	'cash'							=> 'Cash',
+	'credit'						=> 'Credit',
 	'cvv_number'					=> 'CVV Number',
 	'barcode'						=> 'Barcode',
 	'expiration'					=> 'Expiration Date',
@@ -20,17 +22,25 @@ return [
 	'model_number'					=> 'Model Number',
 	'option'						=> 'Option|Options',
 	'payment_setting'				=> 'Payment Setting|Payment Settings',
+	'payment_type'					=> 'Payment Type',
 	'po'							=> 'PO #',
 	'scan'							=> 'Scan|Scans',
 	'serial'						=> 'Serial #',
 	'tech_status'					=> 'Tech Status|Tech Statuses',
 
 // Stripe
-	'stripe_api_key'				=> 'Stripe Payment API Keys',
+	'last_four'						=> 'last_four',
 	'live_publish_key'				=> 'Live Publishable Key',
 	'live_secret_key'				=> 'Live Secret Key',
+	'stripe_active'					=> 'stripe_active',
+	'stripe_api_key'				=> 'Stripe Payment API Keys',
+	'stripe_id'						=> 'stripe_id',
+	'stripe_plan'					=> 'stripe_plan',
+	'stripe_subscription'			=> 'stripe_subscription',
+	'subscription_ends_at'			=> 'subscription_ends_at',
 	'test_publish_key'				=> 'Test Publishable Key',
 	'test_secret_key'				=> 'Test Secret Key',
+	'trial_ends_at'					=> 'trial_ends_at',
 
 // ask
 	'ask' => [
