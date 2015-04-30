@@ -47,6 +47,8 @@ return [
 		'job_title_update'			=> 'The Job Title was successfully updated.',
 		'member_create'				=> 'The Member was successfully created.',
 		'member_update'				=> 'The Member was successfully updated.',
+		'member_type_create'		=> 'The Member Type was successfully created.',
+		'member_type_update'		=> 'The Member Type was successfully updated.',
 		'position_create'			=> 'The Position was successfully created.',
 		'position_update'			=> 'The Position was successfully updated.',
 		'room_create'				=> 'The Room was successfully created.',

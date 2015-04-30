@@ -10,14 +10,23 @@ return [
 	'asset_tag'						=> 'Asset Tag',
 	'barcode'						=> 'Barcode',
 	'item'							=> 'Item|Items',
+	'live_or_test'					=> 'Live Mode Or Test Mode',
 	'make'							=> 'Make',
 	'model'							=> 'Model',
 	'model_number'					=> 'Model Number',
 	'option'						=> 'Option|Options',
+	'payment_setting'				=> 'Payment Setting|Payment Settings',
 	'po'							=> 'PO #',
 	'scan'							=> 'Scan|Scans',
 	'serial'						=> 'Serial #',
 	'tech_status'					=> 'Tech Status|Tech Statuses',
+
+// Stripe
+	'stripe_api_key'				=> 'Stripe Payment API Keys',
+	'live_publish_key'				=> 'Live Publishable Key',
+	'live_secret_key'				=> 'Live Secret Key',
+	'test_publish_key'				=> 'Test Publishable Key',
+	'test_secret_key'				=> 'Test Secret Key',
 
 // ask
 	'ask' => [
