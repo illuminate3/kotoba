@@ -11,6 +11,7 @@ return [
 	'address'						=> 'Address',
 	'asset_status'					=> 'Asset Status',
 	'asset_tag'						=> 'Asset Tag',
+	'author'						=> 'Author',
 	'banned'						=> 'Banned',
 	'barcode'						=> 'Barcode',
 	'blocked'						=> 'Blocked',
