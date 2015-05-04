@@ -34,6 +34,7 @@ return [
 	'deactivate'					=> 'Deactivate',
 	'description'					=> 'Description',
 	'disabled'						=> 'Disabled',
+	'enable'						=> 'Enable',
 	'enabled'						=> 'Enabled',
 	'email'							=> 'Email',
 	'error'							=> 'Error',

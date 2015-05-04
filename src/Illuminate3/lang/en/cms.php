@@ -22,6 +22,7 @@ return [
 	'publish_start'					=> 'Publish Start',
 	'summary'						=> 'Summary',
 	'tenant'						=> 'Tenant',
+	'theme'							=> 'Theme|Themes',
 	'uri'							=> 'URI',
 
 // ask
@@ -64,6 +65,7 @@ return [
 	'success' => [
 		'page_create'				=> 'The Page was successfully created.',
 		'page_update'				=> 'The Page was successfully updated.',
+		'theme_update'				=> 'The Theme was successfully updated.',
 	],
 
 
