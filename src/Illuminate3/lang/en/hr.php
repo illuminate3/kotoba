@@ -51,6 +51,8 @@ return [
 		'member_type_update'		=> 'The Member Type was successfully updated.',
 		'position_create'			=> 'The Position was successfully created.',
 		'position_update'			=> 'The Position was successfully updated.',
+		'room_checkin'				=> 'The Room was successfully Checked In.',
+		'room_checkout'				=> 'The Room was successfully Checked Out.',
 		'room_create'				=> 'The Room was successfully created.',
 		'room_update'				=> 'The Room was successfully updated.',
 		'site_create'				=> 'The Site was successfully created.',
