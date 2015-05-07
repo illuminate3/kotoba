@@ -29,10 +29,10 @@ return [
 	'tech_status'					=> 'Tech Status|Tech Statuses',
 
 // Stripe
-	'last_four'						=> 'last_four',
+	'last_four'						=> 'Last Four Digits',
 	'live_publish_key'				=> 'Live Publishable Key',
 	'live_secret_key'				=> 'Live Secret Key',
-	'stripe_active'					=> 'stripe_active',
+	'stripe_active'					=> 'Stripe Active',
 	'stripe_api_key'				=> 'Stripe Payment API Keys',
 	'stripe_id'						=> 'Stripe ID',
 	'stripe_plan'					=> 'Stripe Plan',
