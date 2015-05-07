@@ -34,13 +34,13 @@ return [
 	'live_secret_key'				=> 'Live Secret Key',
 	'stripe_active'					=> 'stripe_active',
 	'stripe_api_key'				=> 'Stripe Payment API Keys',
-	'stripe_id'						=> 'stripe_id',
-	'stripe_plan'					=> 'stripe_plan',
-	'stripe_subscription'			=> 'stripe_subscription',
-	'subscription_ends_at'			=> 'subscription_ends_at',
+	'stripe_id'						=> 'Stripe ID',
+	'stripe_plan'					=> 'Stripe Plan',
+	'stripe_subscription'			=> 'Stripe Subscription',
+	'subscription_ends_at'			=> 'Subscription Ends At',
 	'test_publish_key'				=> 'Test Publishable Key',
 	'test_secret_key'				=> 'Test Secret Key',
-	'trial_ends_at'					=> 'trial_ends_at',
+	'trial_ends_at'					=> 'Trial Ends At',
 
 // ask
 	'ask' => [
@@ -82,9 +82,9 @@ return [
 	'success' => [
 		'item_create'				=> 'The Item was successfully created.',
 		'item_update'				=> 'The Item was successfully updated.',
-// 		'create'					=> 'The Module was successfully created.',
-// 		'delete'					=> 'The Module was successfully deleted.',
-// 		'update'					=> 'The Module was successfully updated.',
+		'payment_type_create'		=> 'The Payment Type was successfully created.',
+		'payment_type_update'		=> 'The Payment Type was successfully updated.',
+		'payment_update'			=> 'The Payment Settings were successfully updated.',
 	],
 
 

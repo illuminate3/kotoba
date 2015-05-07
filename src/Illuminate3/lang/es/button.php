@@ -9,6 +9,8 @@ return [
 	'admin'							=> 'Administrator',
 	'back'							=> 'Back',
 	'create'						=> 'Create',
+	'check_out'						=> 'Check Out',
+	'check_in'						=> 'Check In',
 	'cancel'						=> 'Cancel',
 	'delete'						=> 'Delete',
 	'edit'							=> 'Edit',
