@@ -12,7 +12,7 @@ return [
 	'card_number'					=> 'Credit Card Number',
 	'cash'							=> 'Cash',
 	'credit'						=> 'Credit',
-	'cvv_number'					=> 'CVV Number',
+	'cvc_number'					=> 'CVC Number',
 	'barcode'						=> 'Barcode',
 	'expiration'					=> 'Expiration Date',
 	'item'							=> 'Item|Items',
