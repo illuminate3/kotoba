@@ -33,8 +33,6 @@ return [
 
 // success
 	'success' => [
-		'asset_checkin'				=> 'The Item was successfully Checked In.',
-		'asset_checkout'			=> 'The Item was successfully Checked Out.',
 		'department_create'			=> 'The Department was successfully created.',
 		'department_update'			=> 'The Department was successfully updated.',
 		'division_create'			=> 'The Division was successfully created.',

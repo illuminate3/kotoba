@@ -80,6 +80,8 @@ return [
 
 // success
 	'success' => [
+		'asset_checkin'				=> 'The Item was successfully Checked In.',
+		'asset_checkout'			=> 'The Item was successfully Checked Out.',
 		'item_create'				=> 'The Item was successfully created.',
 		'item_update'				=> 'The Item was successfully updated.',
 		'payment_type_create'		=> 'The Payment Type was successfully created.',
