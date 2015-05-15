@@ -40,7 +40,7 @@ return [
 	'error'							=> 'Error',
 	'export'						=> 'Export',
 	'help'							=> 'Help',
-	'home'							=> 'Home',
+	'home'							=> 'Portada',
 	'import'						=> 'Import',
 	'in_use'						=> 'In Use',
 	'information'					=> 'Information',
