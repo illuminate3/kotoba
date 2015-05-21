@@ -49,7 +49,7 @@ return [
 	'last_login'					=> 'Last Login',
 	'last_visit'					=> 'Last Visit',
 	'manage'						=> 'Manage',
-	'module'						=> 'Module',
+	'module'						=> 'Module|Modules',
 	'name'							=> 'Name',
 	'never_activated'				=> 'Never Activated',
 	'never_visited'					=> 'Never Visited',
