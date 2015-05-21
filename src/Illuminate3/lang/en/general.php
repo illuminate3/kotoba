@@ -65,7 +65,7 @@ return [
 	'settings'						=> 'Settings',
 	'slug'							=> 'Slug',
 	'staff'							=> 'Staff',
-	'status'						=> 'Status',
+	'status'						=> 'Status|Statuses',
 	'success'						=> 'Success',
 	'super_user'					=> 'Super User',
 	'title'							=> 'Title',
