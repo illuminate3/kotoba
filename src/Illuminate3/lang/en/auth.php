@@ -78,7 +78,7 @@ return [
 		'email'						=> 'These credentials do not match our records.',
 		'forgot_password'			=> 'There was a problem while trying to get a reset password code, please try again.',
 		'general_errors'			=> 'Please check the form below for errors',
-		'not_approved'				=> 'PLease contact the site administor for further information.',
+		'not_approved'				=> 'Please contact the site administor for further information.',
 		'passwords_not_match'		=> 'The passwords provided do not match.',
 		'password_send'				=> 'An error occured sending the password reminder.',
 		'password_reset'			=> 'An error occured resetting your password.',
