@@ -6,6 +6,7 @@
 return [
 
 	'body'							=> 'Body',
+	'class'							=> 'Class',
 	'content'						=> 'Content',
 	'in_print'						=> 'in Print',
 	'is_featured'					=> 'Featured',
