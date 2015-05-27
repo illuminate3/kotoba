@@ -12,6 +12,7 @@ return [
 	'is_published'					=> 'Publish',
 	'link'							=> 'Link',
 	'locale'						=> 'Locale',
+	'menu'							=> 'Menu|Menus',
 	'meta'							=> 'Meta',
 	'meta_description'				=> 'Description',
 	'meta_keywords'					=> 'Keywords',
