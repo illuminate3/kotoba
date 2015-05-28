@@ -19,6 +19,7 @@ return [
 	'enter'							=> 'Enter',
 	'forgot_password'				=> 'Forgot Password',
 	'in_store'						=> 'In Store Payment',
+	'link'							=> 'Link|Links',
 	'log_in'						=> 'Login',
 	'log_on'						=> 'Log On',
 	'new'							=> 'New',
