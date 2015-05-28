@@ -69,6 +69,7 @@ return [
 	'success'						=> 'Success',
 	'super_user'					=> 'Super User',
 	'title'							=> 'Title',
+	'url'							=> 'URL',
 	'verified'						=> 'Verified',
 	'version'						=> 'Version',
 	'view'							=> 'View',
