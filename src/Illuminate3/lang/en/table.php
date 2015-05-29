@@ -59,6 +59,7 @@ return [
 	'title'							=> 'Title',
 	'updated'						=> 'Updated',
 	'updated_at'					=> 'Updated',
+	'url'							=> 'URL',
 	'user'							=> 'User|Users',
 	'version'						=> 'Version',
 	'website'						=> 'Web Site',
