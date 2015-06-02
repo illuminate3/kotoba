@@ -19,6 +19,7 @@ return [
 	'meta_keywords'					=> 'Keywords',
 	'meta_title'					=> 'Title',
 	'page'							=> 'Page|Pages',
+	'position'						=> 'Position',
 	'print_status'					=> 'Print Status|Print Statuses',
 	'publish_end'					=> 'Publish End',
 	'publish_start'					=> 'Publish Start',
