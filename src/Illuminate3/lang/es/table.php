@@ -34,6 +34,7 @@ return [
 	'last_visit'					=> 'Last Visit',
 	'level'							=> 'Level',
 	'make'							=> 'Make',
+	'menu'							=> 'Menu',
 	'middle_initial'				=> 'Middle Initial',
 	'model'							=> 'Model',
 	'model_number'					=> 'Model Number',
