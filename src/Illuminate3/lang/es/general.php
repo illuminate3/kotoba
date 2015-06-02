@@ -19,6 +19,7 @@ return [
 	'blocked'						=> 'Blocked',
 	'back'							=> 'Back',
 	'category'						=> 'Category|Categories',
+	'class'							=> 'Class',
 	'close'							=> 'Close',
 	'confirmed'						=> 'Confirmed',
 	'contact'						=> 'Contact',
