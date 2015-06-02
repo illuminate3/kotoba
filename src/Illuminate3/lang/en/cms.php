@@ -11,7 +11,7 @@ return [
 	'in_print'						=> 'in Print',
 	'is_featured'					=> 'Featured',
 	'is_published'					=> 'Publish',
-	'link'							=> 'Link',
+	'link'							=> 'Link|Links',
 	'locale'						=> 'Locale',
 	'menu'							=> 'Menu|Menus',
 	'meta'							=> 'Meta',
