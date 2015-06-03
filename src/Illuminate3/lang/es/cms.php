@@ -67,6 +67,7 @@ return [
 // success
 	'success' => [
 		'menu_update'				=> 'The Menu was successfully updated.',
+		'menulink_update'			=> 'The Link was successfully updated.',
 		'page_create'				=> 'The Page was successfully created.',
 		'page_update'				=> 'The Page was successfully updated.',
 		'theme_update'				=> 'The Theme was successfully updated.',
