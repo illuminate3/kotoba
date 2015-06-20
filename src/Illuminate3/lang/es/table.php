@@ -17,6 +17,7 @@ return [
 	'blocked'						=> 'Blocked',
 	'category'						=> 'Category',
 	'confirmed'						=> 'Confirmed',
+	'created'						=> 'Created',
 	'created_at'					=> 'Created',
 	'deactivated'					=> 'Deactivated',
 	'description'					=> 'Description',

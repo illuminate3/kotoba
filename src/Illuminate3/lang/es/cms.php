@@ -6,8 +6,11 @@
 return [
 
 	'body'							=> 'Body',
+	'changed_to_version'			=> 'changed to version',
 	'class'							=> 'Class',
 	'content'						=> 'Content',
+	'deleted_pages'					=> 'Deleted Pages',
+	'draft'							=> 'Draft|Drafts',
 	'in_print'						=> 'in Print',
 	'is_featured'					=> 'Featured',
 	'is_published'					=> 'Publish',
@@ -21,6 +24,7 @@ return [
 	'page'							=> 'Page|Pages',
 	'position'						=> 'Position',
 	'print_status'					=> 'Print Status|Print Statuses',
+	'published'						=> 'Published',
 	'publish_end'					=> 'Publish End',
 	'publish_start'					=> 'Publish Start',
 	'summary'						=> 'Summary',
