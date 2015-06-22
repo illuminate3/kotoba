@@ -22,6 +22,7 @@ return [
 	'meta_description'				=> 'Description',
 	'meta_keywords'					=> 'Keywords',
 	'meta_title'					=> 'Title',
+	'no_parent'						=> 'No Parent',
 	'page'							=> 'Page|Pages',
 	'parent'						=> 'Parent',
 	'position'						=> 'Position',
