@@ -33,6 +33,7 @@ return [
 	'image'							=> 'Image',
 	'item_number'					=> 'Item #',
 	'job_title'						=> 'Job Title',
+	'key'							=> 'Key',
 	'last_name'						=> 'Last Name',
 	'last_visit'					=> 'Last Visit',
 	'level'							=> 'Level',
@@ -70,6 +71,7 @@ return [
 	'updated_at'					=> 'Updated',
 	'url'							=> 'URL',
 	'user'							=> 'User|Users',
+	'value'							=> 'Value',
 	'version'						=> 'Version',
 	'website'						=> 'Web Site',
 
