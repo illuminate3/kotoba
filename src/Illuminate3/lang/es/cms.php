@@ -15,6 +15,7 @@ return [
 	'in_print'						=> 'in Print',
 	'is_featured'					=> 'Featured',
 	'is_published'					=> 'Publish',
+	'key'							=> 'Key',
 	'link'							=> 'Link|Links',
 	'locale'						=> 'Locale',
 	'menu'							=> 'Menu|Menus',
@@ -36,6 +37,7 @@ return [
 	'theme'							=> 'Theme|Themes',
 	'trash'							=> 'Trash',
 	'uri'							=> 'URI',
+	'value'							=> 'Value',
 
 // ask
 	'ask' => [
