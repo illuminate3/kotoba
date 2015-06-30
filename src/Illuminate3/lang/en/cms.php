@@ -84,6 +84,8 @@ return [
 		'menulink_update'			=> 'The Link was successfully updated.',
 		'page_create'				=> 'The Page was successfully created.',
 		'page_update'				=> 'The Page was successfully updated.',
+		'setting_create'			=> 'The Setting was successfully created.',
+		'setting_update'			=> 'The Setting was successfully updated.',
 		'theme_update'				=> 'The Theme was successfully updated.',
 	],
 
