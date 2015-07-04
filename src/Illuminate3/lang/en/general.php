@@ -66,7 +66,7 @@ return [
 	'personal_information'			=> 'Personal Information',
 	'resource'						=> 'Resource',
 	'room'							=> 'Room|Rooms',
-	'settings'						=> 'Settings',
+	'setting'						=> 'Setting|Settings',
 	'slug'							=> 'Slug',
 	'staff'							=> 'Staff',
 	'status'						=> 'Status|Statuses',
