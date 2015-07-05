@@ -15,6 +15,7 @@ return [
 	'in_print'						=> 'in Print',
 	'is_featured'					=> 'Featured',
 	'is_published'					=> 'Publish',
+	'is_timed'						=> 'Timed',
 	'key'							=> 'Key',
 	'link'							=> 'Link|Links',
 	'locale'						=> 'Locale',
