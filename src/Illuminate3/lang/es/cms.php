@@ -35,6 +35,7 @@ return [
 	'publish_end'					=> 'Publish End',
 	'publish_start'					=> 'Publish Start',
 	'script'						=> 'Script',
+	'setting'						=> 'Setting|Settings',
 	'summary'						=> 'Summary',
 	'tenant'						=> 'Tenant',
 	'theme'							=> 'Theme|Themes',
