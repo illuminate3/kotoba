@@ -82,6 +82,8 @@ return [
 	'success' => [
 		'content_create'			=> 'The Content was successfully created.',
 		'content_update'			=> 'The Content was successfully updated.',
+		'locale_create'				=> 'The Locale was successfully created.',
+		'locale_update'				=> 'The Locale was successfully updated.',
 		'menu_create'				=> 'The Menu was successfully created.',
 		'menu_update'				=> 'The Menu was successfully updated.',
 		'menulink_create'			=> 'The Menu was successfully created.',
