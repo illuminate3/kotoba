@@ -41,7 +41,7 @@ return [
 	'theme'							=> 'Theme|Themes',
 	'trash'							=> 'Trash',
 	'uri'							=> 'URI',
-	'value'							=> 'Value',
+	'value'							=> 'Value|Values',
 
 // ask
 	'ask' => [
