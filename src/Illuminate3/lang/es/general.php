@@ -63,6 +63,7 @@ return [
 	'none'							=> 'None',
 	'no_records'					=> 'There are no records.',
 	'not_in_use'					=> 'Not In Use',
+	'order'							=> 'Order',
 	'parent'						=> 'Parent',
 	'personal_information'			=> 'Personal Information',
 	'resource'						=> 'Resource',
