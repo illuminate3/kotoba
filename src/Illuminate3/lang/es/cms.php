@@ -14,6 +14,7 @@ return [
 	'image'							=> 'Image|Images',
 	'in_print'						=> 'in Print',
 	'is_featured'					=> 'Featured',
+	'is_navigation'					=> 'Navigation Menu Item',
 	'is_published'					=> 'Publish',
 	'is_timed'						=> 'Timed',
 	'key'							=> 'Key',
