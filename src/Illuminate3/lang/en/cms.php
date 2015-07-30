@@ -82,6 +82,8 @@ return [
 
 // success
 	'success' => [
+		'category_create'			=> 'The Category was successfully created.',
+		'category_update'			=> 'The Category was successfully updated.',
 		'content_create'			=> 'The Content was successfully created.',
 		'content_update'			=> 'The Content was successfully updated.',
 		'locale_create'				=> 'The Locale was successfully created.',
