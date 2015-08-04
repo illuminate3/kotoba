@@ -38,6 +38,7 @@ return [
 	'script'						=> 'Script',
 	'setting'						=> 'Setting|Settings',
 	'summary'						=> 'Summary',
+	'tech_status'					=> 'Technology Status|Technology Statuses',
 	'tenant'						=> 'Tenant',
 	'theme'							=> 'Theme|Themes',
 	'trash'							=> 'Trash',
