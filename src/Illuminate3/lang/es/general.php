@@ -36,6 +36,7 @@ return [
 	'dashboard'						=> 'Dashboard',
 	'date_activated'				=> 'Date Activated',
 	'deactivate'					=> 'Deactivate',
+	'deactivated'					=> 'Deactivated',
 	'default'						=> 'Default',
 	'description'					=> 'Description',
 	'disabled'						=> 'Disabled',
