@@ -14,6 +14,7 @@ return [
 	'image'							=> 'Image|Images',
 	'in_print'						=> 'in Print',
 	'is_featured'					=> 'Featured',
+	'is_navigation'					=> 'Navigation Menu Item',
 	'is_published'					=> 'Publish',
 	'is_timed'						=> 'Timed',
 	'key'							=> 'Key',
@@ -24,6 +25,7 @@ return [
 	'meta_description'				=> 'Description',
 	'meta_keywords'					=> 'Keywords',
 	'meta_title'					=> 'Title',
+	'native'						=> 'Native',
 	'no_parent'						=> 'No Parent',
 	'page'							=> 'Page|Pages',
 	'parent'						=> 'Parent',
@@ -33,12 +35,15 @@ return [
 	'published'						=> 'Published',
 	'publish_end'					=> 'Publish End',
 	'publish_start'					=> 'Publish Start',
+	'script'						=> 'Script',
+	'setting'						=> 'Setting|Settings',
 	'summary'						=> 'Summary',
+	'tech_status'					=> 'Technology Status|Technology Statuses',
 	'tenant'						=> 'Tenant',
 	'theme'							=> 'Theme|Themes',
 	'trash'							=> 'Trash',
 	'uri'							=> 'URI',
-	'value'							=> 'Value',
+	'value'							=> 'Value|Values',
 
 // ask
 	'ask' => [
@@ -78,8 +83,12 @@ return [
 
 // success
 	'success' => [
+		'category_create'			=> 'The Category was successfully created.',
+		'category_update'			=> 'The Category was successfully updated.',
 		'content_create'			=> 'The Content was successfully created.',
 		'content_update'			=> 'The Content was successfully updated.',
+		'locale_create'				=> 'The Locale was successfully created.',
+		'locale_update'				=> 'The Locale was successfully updated.',
 		'menu_create'				=> 'The Menu was successfully created.',
 		'menu_update'				=> 'The Menu was successfully updated.',
 		'menulink_create'			=> 'The Menu was successfully created.',

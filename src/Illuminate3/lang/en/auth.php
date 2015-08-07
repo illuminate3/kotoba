@@ -97,6 +97,7 @@ return [
 		'activate_account'			=> 'Your account has been successfully activated.',
 		'account'					=> 'Account sucessfully created.',
 		'confirmation'				=> 'Confirmation code has been confirmed.',
+		'confirmed'					=> 'Your account has been confirmed, please log in.',
 		'deactivation'				=> 'User deactivated successfully.',
 		'forgot_password'			=> 'Password recovery email successfully sent.',
 		'login'						=> 'You have been logged in.',

@@ -3,6 +3,7 @@ namespace Illuminate3\Kotoba;
 
 use Illuminate\Support\ServiceProvider;
 
+
 class KotobaServiceProvider extends ServiceProvider
 {
 	/**
@@ -33,6 +34,7 @@ class KotobaServiceProvider extends ServiceProvider
 	{
 		$this->loadTranslationsFrom(__DIR__.'/../lang/', 'kotoba');
 	}
+
 
 	/**
 	 * Get the services provided by the provider.

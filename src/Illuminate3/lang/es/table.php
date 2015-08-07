@@ -31,6 +31,7 @@ return [
 	'groups'						=> 'Groups',
 	'id'							=> 'ID',
 	'image'							=> 'Image',
+	'item'							=> 'Item|Items',
 	'item_number'					=> 'Item #',
 	'job_title'						=> 'Job Title',
 	'key'							=> 'Key',

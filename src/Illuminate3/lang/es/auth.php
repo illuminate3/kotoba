@@ -75,6 +75,7 @@ return [
 		'activate_account'			=> 'There was a problem while trying to activate your account, please try again.',
 		'authorize'					=> 'There was a problem while trying to log you in, please check your email and password for mistakes.',
 		'confirmation'				=> 'The confirmation code that you used was incorrect.',
+		'confirmed'					=> 'Your account has been confirmed, please log in.',
 		'email'						=> 'These credentials do not match our records.',
 		'forgot_password'			=> 'There was a problem while trying to get a reset password code, please try again.',
 		'general_errors'			=> 'Please check the form below for errors',
