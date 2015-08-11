@@ -86,6 +86,7 @@ return [
 		'reset_password'			=> 'There was a problem while trying to reset your password, please try again.',
 		'signin'					=> 'There was a problem while trying to log you in, please try again.',
 		'signup'					=> 'There was a problem while trying to create your account, please try again.',
+		'time_out'					=> 'The form has expired, please try again. In the future, reload the page if it has been open for several hours.',
 		'token'						=> 'This reset token is invalid.',
 		'user'						=> 'We can\'t find a user with that e-mail address.',
 	],
