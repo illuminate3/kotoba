@@ -5,6 +5,7 @@
 
 return [
 
+	'article'						=> 'Article|Articles',
 	'body'							=> 'Body',
 	'changed_to_version'			=> 'changed to version',
 	'class'							=> 'Class',
