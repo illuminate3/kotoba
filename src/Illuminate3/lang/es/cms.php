@@ -14,6 +14,7 @@ return [
 	'draft'							=> 'Draft|Drafts',
 	'image'							=> 'Image|Images',
 	'in_print'						=> 'in Print',
+	'is_banner'						=> 'Banner',
 	'is_featured'					=> 'Featured',
 	'is_navigation'					=> 'Navigation Menu Item',
 	'is_published'					=> 'Publish',
