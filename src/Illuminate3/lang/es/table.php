@@ -70,6 +70,7 @@ return [
 	'suspended'						=> 'Suspended',
 	'supervisior'					=> 'Supervisior',
 	'title'							=> 'Title',
+	'type'							=> 'Type|Types',
 	'updated'						=> 'Updated',
 	'updated_at'					=> 'Updated',
 	'url'							=> 'URL',
