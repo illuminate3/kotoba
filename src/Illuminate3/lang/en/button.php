@@ -15,6 +15,7 @@ return [
 	'create'						=> 'Create',
 	'credit_card'					=> 'Credit Card',
 	'delete'						=> 'Delete',
+	'download'						=> 'Download',
 	'edit'							=> 'Edit',
 	'enter'							=> 'Enter',
 	'forgot_password'				=> 'Forgot Password',
