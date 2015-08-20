@@ -7,6 +7,7 @@ return [
 
 	'contact_information'			=> 'Contact Information',
 	'document'						=> 'Document|Documents',
+	'file'							=> 'File|Files',
 
 // ask
 // 	'ask' => [
