@@ -28,6 +28,7 @@ return [
 	'on_line'						=> 'On Line Payment',
 	'read_more'						=> 'Read More',
 	'register'						=> 'Register',
+	'repair'						=> 'Repair',
 	'resend'						=> 'Resend',
 	'reset'							=> 'Reset',
 	'save'							=> 'Save',

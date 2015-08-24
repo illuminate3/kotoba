@@ -76,18 +76,12 @@ return [
 
 // error
 	'error' => [
-// 		'create'					=> 'There was an issue creating the Module. Please try again.',
-// 		'delete'					=> 'There was an issue deleting the Module. Please try again.',
-// 		'exists'					=> 'Module already exists!',
-// 		'installed'					=> 'Already installed!',
-// 		'name_required'				=> 'The Name Field is Required.',
-// 		'not_exist'					=> 'Module [:id] does not exist.',
-// 		'not_found'					=> 'No Modules found.',
-// 		'update'					=> 'There was an issue updating the Module. Please try again.',
+		'repair'					=> 'Category Tree is damaged',
 	],
 
 // success
 	'success' => [
+		'repaired'					=> 'Category Tree has been repaired',
 		'category_create'			=> 'The Category was successfully created.',
 		'category_delete'			=> 'The Category was successfully deleted.',
 		'category_update'			=> 'The Category was successfully updated.',
