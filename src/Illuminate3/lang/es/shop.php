@@ -90,6 +90,8 @@ return [
 		'asset_checkout'			=> 'The Asset was successfully Checked Out.',
 		'asset_create'				=> 'The Asset was successfully created.',
 		'asset_update'				=> 'The Asset was successfully updated.',
+		'catalog_create'			=> 'The Catalog was successfully created.',
+		'catalog_delete'			=> 'The Catalog was successfully deleted.',
 		'item_create'				=> 'The Item was successfully created.',
 		'item_update'				=> 'The Item was successfully updated.',
 		'payment_type_create'		=> 'The Payment Type was successfully created.',
