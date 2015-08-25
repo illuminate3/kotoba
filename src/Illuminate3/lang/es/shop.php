@@ -5,6 +5,7 @@
 
 return [
 
+	'allergen'						=> 'Allergens|Allergens',
 	'asset'							=> 'Asset|Assets',
 	'asset_status'					=> 'Asset Status|Asset Statuses',
 	'asset_tag'						=> 'Asset Tag',
@@ -16,17 +17,21 @@ return [
 	'cvc_number'					=> 'CVC Number',
 	'barcode'						=> 'Barcode',
 	'expiration'					=> 'Expiration Date',
+	'gross_wt'						=> 'Gross Weight',
 	'item'							=> 'Item|Items',
 	'live_or_test'					=> 'Live Mode Or Test Mode',
 	'make'							=> 'Make',
 	'model'							=> 'Model',
 	'model_number'					=> 'Model Number',
+	'number'						=> 'Number',
 	'option'						=> 'Option|Options',
 	'payment_setting'				=> 'Payment Setting|Payment Settings',
 	'payment_type'					=> 'Payment Type',
+	'per_pallet'					=> 'Per Pallet',
 	'po'							=> 'PO #',
 	'scan'							=> 'Scan|Scans',
 	'serial'						=> 'Serial #',
+	'stock_um'						=> 'Stock Unit Measurement',
 	'tech_status'					=> 'Tech Status|Tech Statuses',
 
 // Stripe
