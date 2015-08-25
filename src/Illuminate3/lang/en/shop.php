@@ -11,6 +11,7 @@ return [
 	'card'							=> 'Credit Card',
 	'card_number'					=> 'Credit Card Number',
 	'cash'							=> 'Cash',
+	'catalog'						=> 'Catalog',
 	'credit'						=> 'Credit',
 	'cvc_number'					=> 'CVC Number',
 	'barcode'						=> 'Barcode',
@@ -93,3 +94,4 @@ return [
 
 
 ];
+
