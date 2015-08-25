@@ -76,6 +76,7 @@ return [
 
 // error
 	'error' => [
+		'category_delete'			=> 'This Category can not be deleted.',
 		'repair'					=> 'Category Tree was fine',
 	],
 
