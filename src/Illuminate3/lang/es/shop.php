@@ -11,7 +11,7 @@ return [
 	'card'							=> 'Credit Card',
 	'card_number'					=> 'Credit Card Number',
 	'cash'							=> 'Cash',
-	'catalog'						=> 'Catalog',
+	'catalog'						=> 'Catalog|Catalogs',
 	'credit'						=> 'Credit',
 	'cvc_number'					=> 'CVC Number',
 	'barcode'						=> 'Barcode',
