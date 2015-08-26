@@ -35,6 +35,7 @@ return [
 	'serial'						=> 'Serial #',
 	'stock_um'						=> 'Stock Unit Measurement',
 	'tech_status'					=> 'Tech Status|Tech Statuses',
+	'unit'							=> 'Unit|Units',
 	'vendor'						=> 'Vendor',
 
 // Stripe
@@ -89,6 +90,8 @@ return [
 
 // success
 	'success' => [
+		'allergen_create'			=> 'The Allergen was successfully created.',
+		'allergen_update'			=> 'The Allergen was successfully updated.',
 		'asset_checkin'				=> 'The Asset was successfully Checked In.',
 		'asset_checkout'			=> 'The Asset was successfully Checked Out.',
 		'asset_create'				=> 'The Asset was successfully created.',
@@ -100,6 +103,8 @@ return [
 		'payment_type_create'		=> 'The Payment Type was successfully created.',
 		'payment_type_update'		=> 'The Payment Type was successfully updated.',
 		'payment_update'			=> 'The Payment Settings were successfully updated.',
+		'unit_create'				=> 'The Unit was successfully created.',
+		'unit_update'				=> 'The Unit was successfully updated.',
 	],
 
 
