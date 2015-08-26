@@ -29,10 +29,13 @@ return [
 	'payment_type'					=> 'Payment Type',
 	'per_pallet'					=> 'Per Pallet',
 	'po'							=> 'PO #',
+	'productioin'					=> 'Production',
+	'raw'							=> 'Raw',
 	'scan'							=> 'Scan|Scans',
 	'serial'						=> 'Serial #',
 	'stock_um'						=> 'Stock Unit Measurement',
 	'tech_status'					=> 'Tech Status|Tech Statuses',
+	'vendor'						=> 'Vendor',
 
 // Stripe
 	'last_four'						=> 'Last Four Digits',
