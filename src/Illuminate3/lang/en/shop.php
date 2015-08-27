@@ -2,7 +2,6 @@
 
 // shop
 
-
 return [
 
 	'allergen'						=> 'Allergens|Allergens',
@@ -16,6 +15,7 @@ return [
 	'cash'							=> 'Cash',
 	'catalog'						=> 'Catalog|Catalogs',
 	'credit'						=> 'Credit',
+	'customer'						=> 'Customer|Customers',
 	'cvc_number'					=> 'CVC Number',
 	'expiration'					=> 'Expiration Date',
 	'gross_wt'						=> 'Gross Weight',
@@ -28,6 +28,7 @@ return [
 	'model_number'					=> 'Model Number',
 	'number'						=> 'Number',
 	'option'						=> 'Option|Options',
+	'pallet'						=> 'Pallet|Pallets',
 	'pallet_type'					=> 'Pallet Type|Pallet Types',
 	'payment_setting'				=> 'Payment Setting|Payment Settings',
 	'payment_type'					=> 'Payment Type',

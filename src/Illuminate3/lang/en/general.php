@@ -76,6 +76,7 @@ return [
 	'success'						=> 'Success',
 	'super_user'					=> 'Super User',
 	'title'							=> 'Title',
+	'type'							=> 'Type|Types',
 	'url'							=> 'URL',
 	'verified'						=> 'Verified',
 	'version'						=> 'Version',
