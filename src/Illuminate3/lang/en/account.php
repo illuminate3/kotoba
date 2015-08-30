@@ -6,6 +6,8 @@
 return [
 
 	'address'						=> 'Address',
+	'address_1'						=> 'Primary Address',
+	'address_2'						=> 'Secondary Address',
 	'city'							=> 'City',
 	'created_at'					=> 'Create Date',
 	'email'							=> 'Email',
@@ -22,9 +24,11 @@ return [
 	'phone_2'						=> 'Secondary Phone',
 	'picture'						=> 'Picture',
 	'prefix'						=> 'Prefix',
+	'primary_contact'				=> 'Primary Contact',
 	'primary_email'					=> 'Primary Email',
 	'primary_phone'					=> 'Primary Phone',
 	'profile'						=> 'Profile|Profiles',
+	'secondary_contact'				=> 'Secondary Contact',
 	'secondary_email'				=> 'Secondary Email',
 	'secondary_phone'				=> 'Secondary Phone',
 	'state'							=> 'State',

@@ -21,6 +21,7 @@ return [
 	'back'							=> 'Back',
 	'category'						=> 'Category|Categories',
 	'change'						=> 'Change',
+	'check'							=> 'Check',
 	'class'							=> 'Class',
 	'clear'							=> 'Clear',
 	'close'							=> 'Close',
