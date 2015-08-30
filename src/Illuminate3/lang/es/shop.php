@@ -37,7 +37,7 @@ return [
 	'payment_type'					=> 'Payment Type',
 	'per_pallet'					=> 'Per Pallet',
 	'po'							=> 'PO #',
-	'productioin'					=> 'Production',
+	'production'					=> 'Production',
 	'rack'							=> 'Rack|Racks',
 	'raw'							=> 'Raw',
 	'report'						=> 'Report|Reports',
