@@ -28,6 +28,7 @@ return [
 	'live_or_test'					=> 'Live Mode Or Test Mode',
 	'locale_type'					=> 'Locale Type|Locale Types',
 	'look_up_lot'					=> 'Look up Lot #',
+	'lot_number'					=> 'Lot #',
 	'make'							=> 'Make',
 	'model'							=> 'Model',
 	'model_number'					=> 'Model Number',
