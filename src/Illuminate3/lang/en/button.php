@@ -33,6 +33,7 @@ return [
 	'reset'							=> 'Reset',
 	'save'							=> 'Save',
 	'save_changes'					=> 'Save Changes',
+	'scan'							=> 'Scan',
 	'search'						=> 'Search',
 	'send'							=> 'Send',
 	'sign_in'						=> 'Sign In',

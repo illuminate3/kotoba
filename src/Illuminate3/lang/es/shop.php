@@ -27,6 +27,7 @@ return [
 	'level'							=> 'Level|Levels',
 	'live_or_test'					=> 'Live Mode Or Test Mode',
 	'locale_type'					=> 'Locale Type|Locale Types',
+	'look_up_lot'					=> 'Look up Lot #',
 	'make'							=> 'Make',
 	'model'							=> 'Model',
 	'model_number'					=> 'Model Number',
