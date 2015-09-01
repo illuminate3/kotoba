@@ -5,7 +5,7 @@
 
 return [
 
-	'address'						=> 'Address',
+	'address'						=> 'Address|Addresses',
 	'address_1'						=> 'Primary Address',
 	'address_2'						=> 'Secondary Address',
 	'city'							=> 'City',
