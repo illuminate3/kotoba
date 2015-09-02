@@ -11,6 +11,7 @@ return [
 	'action'						=> 'Action',
 	'activity'						=> 'Activity',
 	'administration'				=> 'Administration',
+	'alert'							=> 'Alert|Alerts',
 	'all'							=> 'All',
 	'assigned'						=> 'Assigned',
 	'author'						=> 'Author',
