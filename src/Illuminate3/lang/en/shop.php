@@ -54,6 +54,7 @@ return [
 	'raw'							=> 'Raw',
 	'receivables'					=> 'Receivable|Receivables',
 	'received'						=> 'Recevied',
+	'received_date'					=> 'Recevied Date',
 	'receiving'						=> 'Receving',
 	'report'						=> 'Report|Reports',
 	'scan'							=> 'Scan|Scans',
