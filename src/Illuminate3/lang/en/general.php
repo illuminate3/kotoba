@@ -26,6 +26,7 @@ return [
 	'class'							=> 'Class',
 	'clear'							=> 'Clear',
 	'close'							=> 'Close',
+	'comment'						=> 'Comment|Comments',
 	'confirmed'						=> 'Confirmed',
 	'contact'						=> 'Contact',
 	'contact_support'				=> 'Contact Support',

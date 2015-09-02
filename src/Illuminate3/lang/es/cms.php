@@ -21,7 +21,7 @@ return [
 	'is_timed'						=> 'Timed',
 	'key'							=> 'Key',
 	'link'							=> 'Link|Links',
-	'locale'						=> 'Locale',
+	'locale'						=> 'Locale|Locales',
 	'menu'							=> 'Menu|Menus',
 	'meta'							=> 'Meta',
 	'meta_description'				=> 'Description',
