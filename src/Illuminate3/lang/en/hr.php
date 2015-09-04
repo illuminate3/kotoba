@@ -16,6 +16,7 @@ return [
 	'job_title'						=> 'Job Title|Job Titles',
 	'member'						=> 'Member|Members',
 	'member_type'					=> 'Member Type|Member Types',
+	'office'						=> 'Office',
 	'position'						=> 'Position|Positions',
 	'principal'						=> 'Principal',
 	'profile'						=> 'Profile|Profiles',

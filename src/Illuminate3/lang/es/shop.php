@@ -52,7 +52,7 @@ return [
 	'quantity'						=> 'Quantity',
 	'rack'							=> 'Rack|Racks',
 	'raw'							=> 'Raw',
-	'receivables'					=> 'Receivable|Receivables',
+	'receivable'					=> 'Receivable|Receivables',
 	'received'						=> 'Recevied',
 	'received_date'					=> 'Recevied Date',
 	'receiving'						=> 'Receving',
