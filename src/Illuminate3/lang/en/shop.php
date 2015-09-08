@@ -6,6 +6,7 @@ return [
 
 	'allergen'						=> 'Allergens|Allergens',
 	'aisle'							=> 'Aisle|Aisles',
+	'amount'						=> 'Amount',
 	'asset'							=> 'Asset|Assets',
 	'asset_status'					=> 'Asset Status|Asset Statuses',
 	'asset_tag'						=> 'Asset Tag',
@@ -26,6 +27,7 @@ return [
 	'expected_date'					=> 'Expected Date',
 	'expected_time'					=> 'Expected time',
 	'expiration'					=> 'Expiration Date',
+	'grand_total'					=> 'Grand Total',
 	'gross_wt'						=> 'Gross Weight',
 	'has_rack'						=> 'Does this area have racks?',
 	'inventory'						=> 'Inventory',
@@ -56,11 +58,13 @@ return [
 	'received'						=> 'Recevied',
 	'received_date'					=> 'Recevied Date',
 	'receiving'						=> 'Receving',
+	'receiving_order_no'			=> 'Receiving Order Number',
+	'remaining'						=> 'Remaining',
 	'report'						=> 'Report|Reports',
 	'scan'							=> 'Scan|Scans',
 	'serial'						=> 'Serial #',
 	'slot'							=> 'Slot|Slots',
-	'status_receive'				=> 'Recieving Status|Recieving Statuses',
+	'status_receive'				=> 'Receiving Status|Receiving Statuses',
 	'status_ship'					=> 'Shipping Status|Shipping Statuses',
 	'stock_um'						=> 'Stock Unit Measurement',
 	'tech_status'					=> 'Tech Status|Tech Statuses',
@@ -105,22 +109,11 @@ return [
 
 // command
 	'command' => [
-// 		'create'					=> 'Create New Module',
-// 		'edit'						=> 'Edit Module',
-// 		'delete'					=> 'Delete Module',
-// 		'update'					=> 'Update Module',
 	],
 
 // error
 	'error' => [
-// 		'create'					=> 'There was an issue creating the Module. Please try again.',
-// 		'delete'					=> 'There was an issue deleting the Module. Please try again.',
-// 		'exists'					=> 'Module already exists!',
-// 		'installed'					=> 'Already installed!',
-// 		'name_required'				=> 'The Name Field is Required.',
-// 		'not_exist'					=> 'Module [:id] does not exist.',
-		'not_found'					=> 'Not found.',
-// 		'update'					=> 'There was an issue updating the Module. Please try again.',
+		'pallet_created'			=> 'Pallets have been created.',
 	],
 
 // success
