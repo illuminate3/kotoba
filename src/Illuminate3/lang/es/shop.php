@@ -113,7 +113,8 @@ return [
 
 // error
 	'error' => [
-		'pallet_created'			=> 'Pallets have been created.',
+		'pallet_created'			=> 'Pallets have been created',
+		'pallet_not_created'		=> 'Pallets have not been created',
 	],
 
 // success
