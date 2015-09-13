@@ -41,6 +41,7 @@ return [
 	'deactivate'					=> 'Deactivate',
 	'deactivated'					=> 'Deactivated',
 	'default'						=> 'Default',
+	'detail'						=> 'Detail|Details',
 	'description'					=> 'Description',
 	'disabled'						=> 'Disabled',
 	'enable'						=> 'Enable',

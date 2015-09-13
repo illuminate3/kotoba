@@ -4,6 +4,7 @@
 
 return [
 
+	'adjusted'						=> 'Adjusted',
 	'allergen'						=> 'Allergens|Allergens',
 	'aisle'							=> 'Aisle|Aisles',
 	'amount'						=> 'Amount',
@@ -59,6 +60,7 @@ return [
 	'received_date'					=> 'Recevied Date',
 	'receiving'						=> 'Receving',
 	'receiving_order_no'			=> 'Receiving Order Number',
+	'receiving_po'					=> 'Receiving Order Number',
 	'remaining'						=> 'Remaining',
 	'report'						=> 'Report|Reports',
 	'scan'							=> 'Scan|Scans',
@@ -69,6 +71,7 @@ return [
 	'stock_um'						=> 'Stock Unit Measurement',
 	'tech_status'					=> 'Tech Status|Tech Statuses',
 	'total'							=> 'Total',
+	'total_amount'					=> 'Total Amount',
 	'total_original_amount'			=> 'Total Original Amount',
 	'truck'							=> 'Truck|Trucks',
 	'trucking'						=> 'Trucking Company|Trucking Companies',
@@ -147,6 +150,12 @@ return [
 		'rack_update'				=> 'The Rack was successfully updated.',
 		'rack_create'				=> 'The Rack was successfully created.',
 		'rack_update'				=> 'The Rack was successfully updated.',
+		'received_create'			=>	'The Order was successfully created.',
+		'received_delete'			=>	'The Order was successfully deleted.',
+		'received_update'			=>	'The Order was successfully updated.',
+		'receiving_create'			=>	'The Order was successfully created.',
+		'receiving_delete'			=>	'The Order was successfully deleted.',
+		'receiving_update'			=>	'The Order was successfully updated.',
 		'status_receive_create'		=> 'The Status was successfully created.',
 		'status_receive_update'		=> 'The Status was successfully updated.',
 		'status_ship_create'		=> 'The Status was successfully created.',
