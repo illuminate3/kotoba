@@ -147,8 +147,7 @@ return [
 		'payment_type_update'		=> 'The Payment Type was successfully updated.',
 		'payment_update'			=> 'The Payment Settings were successfully updated.',
 		'rack_create'				=> 'The Rack was successfully created.',
-		'rack_update'				=> 'The Rack was successfully updated.',
-		'rack_create'				=> 'The Rack was successfully created.',
+		'rack_delete'				=> 'The Rack was successfully deleted.',
 		'rack_update'				=> 'The Rack was successfully updated.',
 		'received_create'			=>	'The Order was successfully created.',
 		'received_delete'			=>	'The Order was successfully deleted.',
@@ -170,6 +169,7 @@ return [
 		'vendor_receiving_delete'	=>	'The Vendor\'s order was successfully deleted.',
 		'vendor_receiving_update'	=>	'The Vendor\'s order was successfully updated.',
 		'zone_create'				=> 'The Zone was successfully created.',
+		'zone_delete'				=> 'The Zone was successfully deleted.',
 		'zone_update'				=> 'The Zone was successfully updated.',
 	],
 
