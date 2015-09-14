@@ -12,6 +12,7 @@ return [
 	'asset_status'					=> 'Asset Status|Asset Statuses',
 	'asset_tag'						=> 'Asset Tag',
 	'barcode'						=> 'Barcode',
+	'build'							=> 'Build|Builds',
 	'card'							=> 'Credit Card',
 	'card_number'					=> 'Credit Card Number',
 	'cash'							=> 'Cash',
