@@ -19,6 +19,7 @@ return [
 	'catalog'						=> 'Catalog|Catalogs',
 	'customer_catalog'				=> 'Customer Catalog|Customer Catalogs',
 	'company'						=> 'Company|Companies',
+	'count'							=> 'Count',
 	'create_report_for'				=> 'Create report for',
 	'credit'						=> 'Credit',
 	'customer'						=> 'Customer|Customers',
