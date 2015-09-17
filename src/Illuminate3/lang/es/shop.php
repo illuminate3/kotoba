@@ -68,6 +68,7 @@ return [
 	'scan'							=> 'Scan|Scans',
 	'serial'						=> 'Serial #',
 	'slot'							=> 'Slot|Slots',
+	'split'							=> 'Split',
 	'status_receive'				=> 'Receiving Status|Receiving Statuses',
 	'status_ship'					=> 'Shipping Status|Shipping Statuses',
 	'stock_um'						=> 'Stock Unit Measurement',
