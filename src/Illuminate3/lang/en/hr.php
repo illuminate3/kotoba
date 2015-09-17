@@ -7,6 +7,7 @@ return [
 
 	'contact_information'			=> 'Contact Information',
 	'department'					=> 'Department|Departments',
+	'directory'						=> 'Directory',
 	'division'						=> 'Division|Divisions',
 	'employee'						=> 'Employee|Employees',
 	'employment_information'		=> 'Employment Information',

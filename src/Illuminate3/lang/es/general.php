@@ -74,6 +74,7 @@ return [
 	'personal_information'			=> 'Personal Information',
 	'resource'						=> 'Resource',
 	'room'							=> 'Room|Rooms',
+	'secondary'						=> 'Secondary',
 	'setting'						=> 'Setting|Settings',
 	'slug'							=> 'Slug',
 	'staff'							=> 'Staff',
