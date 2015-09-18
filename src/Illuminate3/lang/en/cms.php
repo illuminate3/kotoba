@@ -9,6 +9,7 @@ return [
 	'body'							=> 'Body',
 	'changed_to_version'			=> 'changed to version',
 	'class'							=> 'Class',
+	'cms'							=> 'CMS',
 	'content'						=> 'Content',
 	'dashboard'						=> 'Dashboard',
 	'deleted_pages'					=> 'Deleted Pages',

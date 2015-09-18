@@ -5,6 +5,7 @@
 
 return [
 
+	'campus'						=> 'Campus',
 	'contact_information'			=> 'Contact Information',
 	'department'					=> 'Department|Departments',
 	'directory'						=> 'Directory',
@@ -13,6 +14,7 @@ return [
 	'employment_information'		=> 'Employment Information',
 	'employee_type'					=> 'Employee Type|Employee Types',
 	'grade'							=> 'Grade|Grades',
+	'hr'							=> 'HR|Human Resources',
 	'job_information'				=> 'Job Information',
 	'job_title'						=> 'Job Title|Job Titles',
 	'member'						=> 'Member|Members',
@@ -22,6 +24,7 @@ return [
 	'principal'						=> 'Principal',
 	'profile'						=> 'Profile|Profiles',
 	'room'							=> 'Room|Rooms',
+	'school'						=> 'School|Schools',
 	'site'							=> 'Site|Sites',
 	'subject'						=> 'Subject|Subjects',
 	'supervisor'					=> 'Supervisor',
