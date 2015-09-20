@@ -37,6 +37,7 @@ return [
 	'create_page'					=> 'Create Page',
 	'create_post'					=> 'Create Post',
 	'dashboard'						=> 'Dashboard',
+	'date'							=> 'Date|Dates',
 	'date_activated'				=> 'Date Activated',
 	'deactivate'					=> 'Deactivate',
 	'deactivated'					=> 'Deactivated',
