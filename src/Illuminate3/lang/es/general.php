@@ -73,6 +73,7 @@ return [
 	'over'							=> 'Over',
 	'parent'						=> 'Parent',
 	'personal_information'			=> 'Personal Information',
+	'print'							=> 'Print',
 	'resource'						=> 'Resource',
 	'room'							=> 'Room|Rooms',
 	'secondary'						=> 'Secondary',
