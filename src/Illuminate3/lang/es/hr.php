@@ -17,6 +17,7 @@ return [
 	'hr'							=> 'HR|Human Resources',
 	'job_information'				=> 'Job Information',
 	'job_title'						=> 'Job Title|Job Titles',
+	'location'						=> 'location|Locations',
 	'member'						=> 'Member|Members',
 	'member_type'					=> 'Member Type|Member Types',
 	'office'						=> 'Office',
