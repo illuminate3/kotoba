@@ -83,7 +83,7 @@ return [
 	'status'						=> 'Status|Statuses',
 	'success'						=> 'Success',
 	'super_user'					=> 'Super User',
-	'ticket'						=> 'Ticket|Ticktets',
+	'ticket'						=> 'Ticket|Tickets',
 	'title'							=> 'Title',
 	'type'							=> 'Type|Types',
 	'under'							=> 'Under',
