@@ -13,6 +13,7 @@ return [
 	'cash'							=> 'Cash',
 	'check_out'						=> 'Check Out',
 	'check_in'						=> 'Check In',
+	'comment'						=> 'Comment',
 	'create'						=> 'Create',
 	'credit_card'					=> 'Credit Card',
 	'delete'						=> 'Delete',

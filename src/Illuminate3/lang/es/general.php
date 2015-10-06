@@ -71,6 +71,7 @@ return [
 	'not_in_use'					=> 'Not In Use',
 	'order'							=> 'Order',
 	'over'							=> 'Over',
+	'owner'							=> 'Owner',
 	'parent'						=> 'Parent',
 	'personal_information'			=> 'Personal Information',
 	'priority'						=> 'Priority|Priorities',
@@ -142,6 +143,7 @@ return [
 		'no_data'					=> 'No Data',
 		'not_exist'					=> 'The Record [:id] does not exist.',
 		'not_found'					=> 'No Records found.',
+		'ticket_create'				=> 'The Asset Tag was possibly wrong, please re-enter it.',
 		'update'					=> 'There was an issue updating the Record. Please try again.',
 	],
 
@@ -152,9 +154,12 @@ return [
 
 // success
 	'success' => [
-		'category_move'				=> 'The category has been successfully moved.',
+		'category_move'				=> 'The Category has been successfully moved.',
 		'category_create'			=> 'The Category was successfully created.',
 		'category_update'			=> 'The Category was successfully updated.',
+		'comment_move'				=> 'The Comment has been successfully moved.',
+		'comment_create'			=> 'The Comment was successfully created.',
+		'comment_update'			=> 'The Comment was successfully updated.',
 		'priority_create'			=> 'The Priority was successfully created.',
 		'priority_update'			=> 'The Priority was successfully updated.',
 		'status_create'				=> 'The Status was successfully created.',
