@@ -59,6 +59,8 @@ return [
 	'joined'						=> 'Joined',
 	'last_login'					=> 'Last Login',
 	'last_visit'					=> 'Last Visit',
+	'log'							=> 'Log|Logs',
+	'mail'							=> 'Mail',
 	'manage'						=> 'Manage',
 	'module'						=> 'Module|Modules',
 	'name'							=> 'Name',
