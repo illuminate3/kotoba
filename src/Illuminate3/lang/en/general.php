@@ -79,6 +79,7 @@ return [
 	'owner'							=> 'Owner',
 	'parent'						=> 'Parent',
 	'personal_information'			=> 'Personal Information',
+	'preview'						=> 'Preview',
 	'priority'						=> 'Priority|Priorities',
 	'resource'						=> 'Resource',
 	'response'						=> 'Response|Responses',
