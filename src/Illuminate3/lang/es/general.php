@@ -75,6 +75,7 @@ return [
 	'name'							=> 'Name',
 	'never_activated'				=> 'Never Activated',
 	'never_visited'					=> 'Never Visited',
+	'new'							=> 'New',
 	'no'							=> 'No',
 	'note'							=> 'Note|Notes',
 	'none'							=> 'None',
