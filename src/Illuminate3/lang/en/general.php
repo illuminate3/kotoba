@@ -173,9 +173,9 @@ return [
 
 // success
 	'success' => [
-		'canned_type_create'		=> 'The Canned Response was successfully created.',
-		'canned_type_delete'		=> 'The Canned Response was successfully deleted.',
-		'canned_type_update'		=> 'The Canned Response was successfully updated.',
+		'canned_create'				=> 'The Canned Response was successfully created.',
+		'canned_delete'				=> 'The Canned Response was successfully deleted.',
+		'canned_update'				=> 'The Canned Response was successfully updated.',
 		'category_move'				=> 'The Category has been successfully moved.',
 		'category_create'			=> 'The Category was successfully created.',
 		'category_update'			=> 'The Category was successfully updated.',
