@@ -13,6 +13,7 @@ return [
 	'administration'				=> 'Administration',
 	'alert'							=> 'Alert|Alerts',
 	'all'							=> 'All',
+	'area'							=> 'Area|Areas',
 	'assigned'						=> 'Assigned',
 	'author'						=> 'Author',
 	'available'						=> 'Available',
