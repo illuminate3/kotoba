@@ -18,6 +18,7 @@ return [
 	'banner'						=> 'Banner',
 	'barcode'						=> 'Barcode',
 	'blocked'						=> 'Blocked',
+	'body'							=> 'Body',
 	'canned'						=> 'Canned',
 	'category'						=> 'Category',
 	'check'							=> 'Check',
