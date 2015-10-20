@@ -141,6 +141,7 @@ return [
 
 // error
 	'error' => [
+		'bulk_create'				=> 'Asset Tags and Serial Numbers do not match.',
 		'pallet_created'			=> 'Pallets have been created',
 		'pallet_not_created'		=> 'Pallets have not been created',
 		'shipping_delete'			=> 'Pallets have been created',
@@ -154,6 +155,7 @@ return [
 		'asset_checkout'			=> 'The Asset was successfully Checked Out.',
 		'asset_create'				=> 'The Asset was successfully created.',
 		'asset_update'				=> 'The Asset was successfully updated.',
+		'bulk_create'				=> 'The Assets were successfully created.',
 		'catalog_create'			=> 'The Catalog was successfully created.',
 		'catalog_delete'			=> 'The Catalog was successfully deleted.',
 		'catalog_update'			=> 'The Catalog was successfully updated.',
