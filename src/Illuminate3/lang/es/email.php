@@ -5,6 +5,8 @@
 
 return [
 
+	'activation_link'				=> 'Activation Link',
+	'click_to_activate'				=> 'Please click on the following link to accept receiving of the device',
 	'click_to_confirm'				=> 'Please click on the following link to confirm your account',
 	'click_to_reset'				=> 'Please click on the following link to reset your password',
 	'click_update_password'			=> 'Please click on the following link to updated your password',
@@ -22,6 +24,12 @@ return [
 	'reset_password_link'			=> 'Reset Password Link',
 	'register_link'					=> 'Registration Link',
 	'welcome_to'					=> 'Welcome to',
+
+// activation
+	'activation' => [
+		'activate'					=> 'Device Activation',
+		'sent'						=> 'An email with the activation URL has been sent.',
+	],
 
 // confirmation
 	'confirmation' => [

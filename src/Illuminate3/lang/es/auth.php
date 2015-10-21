@@ -5,6 +5,7 @@
 
 return [
 
+	'activation'					=> 'Activation',
 	'ask_account'					=> 'Don\'t have an account?',
 	'allow'							=> 'Allow',
 	'confirmation'					=> 'Confirmation',
@@ -73,9 +74,9 @@ return [
 	'error' => [
 		'activate'					=> 'User activation failed.',
 		'activate_account'			=> 'There was a problem while trying to activate your account, please try again.',
+		'activation'				=> 'The Activation Code that you used was incorrect.',
 		'authorize'					=> 'There was a problem while trying to log you in, please check your email and password for mistakes.',
 		'confirmation'				=> 'The confirmation code that you used was incorrect.',
-		'confirmed'					=> 'Your account has been confirmed, please log in.',
 		'email'						=> 'These credentials do not match our records.',
 		'forgot_password'			=> 'There was a problem while trying to get a reset password code, please try again.',
 		'general_errors'			=> 'Please check the form below for errors',
@@ -84,6 +85,7 @@ return [
 		'password_send'				=> 'An error occured sending the password reminder.',
 		'password_reset'			=> 'An error occured resetting your password.',
 		'permission'				=> 'Sorry, you do not have the proper permissions.',
+		'reset_activation'			=> 'There was a problem while trying to reset the activation code, please try again.',
 		'reset_password'			=> 'There was a problem while trying to reset your password, please try again.',
 		'signin'					=> 'There was a problem while trying to log you in, please try again.',
 		'signup'					=> 'There was a problem while trying to create your account, please try again.',
@@ -94,16 +96,20 @@ return [
 
 // success
 	'success' => [
+		'account'					=> 'Account sucessfully created.',
 		'activate'					=> 'User activated successfully.',
 		'activate_account'			=> 'Your account has been successfully activated.',
-		'account'					=> 'Account sucessfully created.',
+		'activation'				=> 'Activation Code has been confirmed.',
+		'activated'					=> 'Your Activation Code has been accepted.',
 		'confirmation'				=> 'Confirmation code has been confirmed.',
+		'confirmed'					=> 'Your account has been confirmed, please log in.',
 		'deactivation'				=> 'User deactivated successfully.',
 		'forgot_password'			=> 'Password recovery email successfully sent.',
 		'login'						=> 'You have been logged in.',
 		'logout'					=> 'You have been logged out.',
 		'password_send'				=> 'Password reminder sent successfully.',
 		'password_reset'			=> 'Your password has been reset.',
+		'reset_activation'			=> 'The Activation Code has been reset.',
 		'reset_password'			=> 'Your password has been successfully reset.',
 		'register'					=> 'You are now registered.',
 		'sign_up'					=> 'You are now signed up.',
