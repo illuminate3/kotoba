@@ -96,6 +96,7 @@ return [
 		'menu_create'				=> 'The Menu was successfully created.',
 		'menu_update'				=> 'The Menu was successfully updated.',
 		'menulink_create'			=> 'The Menu was successfully created.',
+		'menulink_delete'			=> 'The Link was successfully deleted.',
 		'menulink_update'			=> 'The Link was successfully updated.',
 		'news_create'				=> 'The Article was successfully created.',
 		'news_update'				=> 'The Article was successfully updated.',

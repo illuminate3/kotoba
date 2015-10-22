@@ -39,6 +39,7 @@ return [
 	'gross_wt'						=> 'Gross Weight',
 	'has_rack'						=> 'Does this area have racks?',
 	'inbound'						=> 'Inbound',
+	'ingredient'					=> 'Ingredient|Ingredients',
 	'inventory'						=> 'Inventory',
 	'item'							=> 'Item|Items',
 	'label'							=> 'Label|Labels',
