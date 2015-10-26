@@ -118,7 +118,9 @@ return [
 	'website'						=> 'Web Site',
 	'yes'							=> 'Yes',
 
-// months
+// dates
+	'year'							=> 'Year|Years',
+
 	'month_1'						=> 'January',
 	'month_2'						=> 'February',
 	'month_3'						=> 'March',
