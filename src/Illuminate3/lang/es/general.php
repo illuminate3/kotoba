@@ -149,6 +149,7 @@ return [
 		'edit'						=> 'Edit',
 		'delete'					=> 'Delete',
 		'move'						=> 'Move',
+		'run'						=> 'Run',
 		'select'					=> 'Select',
 		'select_a'					=> 'Select a',
 		'select_an'					=> 'Select an',
