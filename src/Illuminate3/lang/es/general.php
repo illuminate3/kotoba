@@ -50,6 +50,7 @@ return [
 	'detail'						=> 'Detail|Details',
 	'description'					=> 'Description',
 	'disabled'						=> 'Disabled',
+	'done'							=> 'Done',
 	'enable'						=> 'Enable',
 	'enabled'						=> 'Enabled',
 	'email'							=> 'Email',
