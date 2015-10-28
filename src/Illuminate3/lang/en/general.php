@@ -74,6 +74,7 @@ return [
 	'manage'						=> 'Manage',
 	'message'						=> 'Message|messages',
 	'module'						=> 'Module|Modules',
+	'move'							=> 'Move|Moves',
 	'name'							=> 'Name',
 	'never_activated'				=> 'Never Activated',
 	'never_visited'					=> 'Never Visited',

@@ -89,6 +89,7 @@ return [
 	'sell_by'						=> 'Sell By',
 	'serial'						=> 'Serial #',
 	'sheet'							=> 'Sheet|Sheets',
+	'ship'							=> 'Ship',
 	'shippable'						=> 'Shippable|Shippables',
 	'shipped'						=> 'Shipped',
 	'shipping'						=> 'Shipping',
@@ -150,6 +151,7 @@ return [
 		'pallet_created'			=> 'Pallets have been created',
 		'pallet_not_created'		=> 'Pallets have not been created',
 		'shipping_delete'			=> 'Pallets have been created',
+		'pallet_picked'				=> 'The Pallet has been Picked.',
 	],
 
 // success
@@ -179,6 +181,7 @@ return [
 		'locale_type_update'		=> 'The Locale Type was successfully updated.',
 		'pallet_create'				=> 'The Pallet was successfully created.',
 		'pallet_update'				=> 'The Pallet was successfully updated.',
+		'pallet_picked'				=> 'The Pallet was successfully Picked.',
 		'payment_create'			=> 'The Payment was successfully created.',
 		'pallet_type_create'		=> 'The Pallet Type was successfully created.',
 		'pallet_type_update'		=> 'The Pallet Type was successfully updated.',
