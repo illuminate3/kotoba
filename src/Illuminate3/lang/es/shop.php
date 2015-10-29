@@ -83,6 +83,7 @@ return [
 	'receiving'						=> 'Receving',
 	'receiving_order_no'			=> 'Receiving Order Number',
 	'receiving_po'					=> 'Receiving Order Number',
+	'record'						=> 'Record|Records',
 	'remaining'						=> 'Remaining',
 	'report'						=> 'Report|Reports',
 	'scan'							=> 'Scan|Scans',
