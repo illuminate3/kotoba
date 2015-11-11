@@ -121,6 +121,7 @@ return [
 	'yes'							=> 'Yes',
 
 // dates
+	'hour'							=> 'Hour|Hours',
 	'time'							=> 'Time',
 	'year'							=> 'Year|Years',
 

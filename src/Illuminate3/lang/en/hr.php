@@ -5,6 +5,7 @@
 
 return [
 
+	'attende'						=> 'Attendees|Attendees',
 	'campus'						=> 'Campus',
 	'contact_information'			=> 'Contact Information',
 	'department'					=> 'Department|Departments',
