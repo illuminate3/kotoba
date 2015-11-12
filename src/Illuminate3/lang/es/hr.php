@@ -5,7 +5,8 @@
 
 return [
 
-	'attende'						=> 'Attendees|Attendees',
+	'attendee'						=> 'Attendee|Ateendees',
+	'audience'						=> 'Audience',
 	'campus'						=> 'Campus',
 	'contact_information'			=> 'Contact Information',
 	'department'					=> 'Department|Departments',
@@ -23,10 +24,12 @@ return [
 	'member_type'					=> 'Member Type|Member Types',
 	'office'						=> 'Office',
 	'position'						=> 'Position|Positions',
+	'presenter'						=> 'Presenter|Presenters',
 	'principal'						=> 'Principal',
 	'profile'						=> 'Profile|Profiles',
 	'room'							=> 'Room|Rooms',
 	'school'						=> 'School|Schools',
+	'seminar'						=> 'Seminar|Seminars',
 	'site'							=> 'Site|Sites',
 	'subject'						=> 'Subject|Subjects',
 	'supervisor'					=> 'Supervisor',

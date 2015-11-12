@@ -56,6 +56,8 @@ return [
 	'email'							=> 'Email',
 	'error'							=> 'Error',
 	'export'						=> 'Export',
+	'fee'							=> 'Fee|Fees',
+	'finish'						=> 'Finish',
 	'forward'						=> 'Forward',
 	'help'							=> 'Help',
 	'home'							=> 'Home',
