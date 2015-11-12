@@ -23,6 +23,7 @@ return [
 	'delete'						=> 'Delete',
 	'download'						=> 'Download',
 	'edit'							=> 'Edit',
+	'enroll'						=> 'Enroll',
 	'enter'							=> 'Enter',
 	'forgot_password'				=> 'Forgot Password',
 	'in_store'						=> 'In Store Payment',

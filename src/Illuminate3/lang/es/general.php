@@ -55,6 +55,7 @@ return [
 	'done'							=> 'Done',
 	'enable'						=> 'Enable',
 	'enabled'						=> 'Enabled',
+	'enroll'						=> 'Enroll',
 	'enrollment'					=> 'Enrollment',
 	'email'							=> 'Email',
 	'error'							=> 'Error',
