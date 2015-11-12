@@ -16,6 +16,7 @@ return [
 	'check_out'						=> 'Check Out',
 	'check_in'						=> 'Check In',
 	'close'							=> 'Close',
+	'confirm'						=> 'Confirm',
 	'comment'						=> 'Comment',
 	'create'						=> 'Create',
 	'credit_card'					=> 'Credit Card',
