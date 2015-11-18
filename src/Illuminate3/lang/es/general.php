@@ -15,7 +15,7 @@ return [
 	'all'							=> 'All',
 	'area'							=> 'Area|Areas',
 	'assigned'						=> 'Assigned',
-	'attendee'						=> 'Attendee|Ateendees',
+	'attendee'						=> 'Attendee|Attendees',
 	'audience'						=> 'Audience',
 	'author'						=> 'Author',
 	'available'						=> 'Available',
