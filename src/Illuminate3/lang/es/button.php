@@ -50,6 +50,7 @@ return [
 	'submit'						=> 'Submit',
 	'update'						=> 'Update',
 	'view'							=> 'View',
+	'withdraw'						=> 'Withdraw',
 	'yes'							=> 'Yes',
 
 
