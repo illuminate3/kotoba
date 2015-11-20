@@ -5,7 +5,8 @@
 
 return [
 
-	'attendee'						=> 'Attendee|Ateendees',
+	'attendance'					=> 'Attendance',
+	'attendee'						=> 'Attendee|Attendees',
 	'audience'						=> 'Audience',
 	'campus'						=> 'Campus',
 	'contact_information'			=> 'Contact Information',
@@ -24,6 +25,7 @@ return [
 	'member_type'					=> 'Member Type|Member Types',
 	'office'						=> 'Office',
 	'position'						=> 'Position|Positions',
+	'presented'						=> 'Presented',
 	'presenter'						=> 'Presenter|Presenters',
 	'principal'						=> 'Principal',
 	'profile'						=> 'Profile|Profiles',
