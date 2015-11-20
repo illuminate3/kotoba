@@ -45,6 +45,7 @@ return [
 
 // success
 	'success' => [
+		'attendance_email'			=> 'Attendance Request Email has been Sent.',
 		'department_create'			=> 'The Department was successfully created.',
 		'department_delete'			=> 'The Department was successfully deleted.',
 		'department_update'			=> 'The Department was successfully updated.',
