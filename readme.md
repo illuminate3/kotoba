@@ -8,7 +8,7 @@ Kotoba
 
 
 # About
-Kotoba is an extension language pack for Laravel 5.
+Kotoba is an extension language pack for Laravel 5.x
 
 Use [illuminate3's Lingos](https://github.com/illuminate3/vedettte "illuminate3's Lingos") for Laravel 4.
 
@@ -16,21 +16,15 @@ I have been trying to refine how the words and phrases have been laid out. I do 
 is English centric but with your help I'm sure that we could fix this problem.
 
 
-
 ## Version
 1.0.0
 * Based on the Lingos language file pack
 
 
-
-
 ## Available Languages
 * English
 
-
-
 ## Installation
-
 
 1.)
 Add to composer.json in the require statement:
@@ -49,26 +43,25 @@ Add to the app.php providers list
 'Illuminate3\Kotoba\KotobaServiceProvider',
 ```
 
-
-
 ## Usage
 
 real world example:
 
 ```
+{{ trans('kotoba::auth.register') }}
 {{ Lang::get('kotoba::auth.register') }}
 ```
 
 Break down of how it works:
 
 ```
-{{ Lang::get('kotoba::filename.line') }}
 {{ trans('kotoba::filename.line') }}
+{{ Lang::get('kotoba::filename.line') }}
 @lang('kotoba::filename.line')
 ```
 Plurals
 ```
-{{ Lang::choice('kotoba::file.line', 1|2+) }}
+{{ Lang::choice('kotoba::file.line', 1|2) }}
 ```
 
 kotoba:: // The package name
@@ -80,17 +73,18 @@ Result: Register
 
 ## Files
 
-1. account    :: relates to accounts
-2. auth       :: relates to authorization and security
-3. button     :: relates to various words appearing on buttons
-4. email      :: relates to email template phrases and words
-5. general    :: relates to various often used words and phrases
-6. group      :: relates to groups
-6. permission :: relates to permmissions
-6. role       :: relates to roles
-5. table      :: relates to various words appearing in tables
+1. account    :: standard account terminology
+2. auth       :: terminology that is more specific towards authorization and authentification
+3. button     :: various terminology appearing on buttons
+4. cms        :: typical terminology used by CMS's
+4. email      :: email template phrases and words
+5. general    :: bases phrases and words
+6. group      :: group terminology
+6. permission :: permission terminology
+6. role       :: role terminology
+5. table      :: various terminology appearing on table column headings
 
-Note: Sometimes you have words or phrases that can fall into both the button and general categories.
+Note: Sometimes you have words or phrases that can fall into both the button, table and general categories.
 I separated these since you might want to have them slightly different, like capitalizations or similar.
 
 
@@ -100,7 +94,7 @@ I separated these since you might want to have them slightly different, like cap
 
 
 
-## Forking
+## To the Community
 Feel free to fork all you want. What would be nice if you were to add your own language to this package.
 
 

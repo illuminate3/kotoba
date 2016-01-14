@@ -3,7 +3,6 @@ namespace Illuminate3\Kotoba;
 
 use Illuminate\Support\ServiceProvider;
 
-
 class KotobaServiceProvider extends ServiceProvider
 {
 	/**
