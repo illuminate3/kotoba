@@ -111,6 +111,7 @@ return [
 	'reserved'								=> 'Reserved',
 	'response'								=> 'Response|Responses',
 	'room'									=> 'Room|Rooms',
+	'search'								=> 'Search|Searches',
 	'secondary'								=> 'Secondary',
 	'send'									=> 'Send',
 	'session'								=> 'Session|Sessions',
@@ -168,6 +169,7 @@ return [
 	'command' => [
 		'create'							=> 'Create',
 		'edit'								=> 'Edit',
+		'enter'								=> 'Enter',
 		'delete'							=> 'Delete',
 		'move'								=> 'Move',
 		'run'								=> 'Run',

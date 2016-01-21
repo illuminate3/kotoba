@@ -41,6 +41,7 @@ return [
 	'inbound'						=> 'Inbound',
 	'ingredient'					=> 'Ingredient|Ingredients',
 	'inventory'						=> 'Inventory',
+	'invoice'						=> 'Invoice|Invoices',
 	'item'							=> 'Item|Items',
 	'label'							=> 'Label|Labels',
 	'level'							=> 'Level|Levels',
