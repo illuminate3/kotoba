@@ -45,7 +45,7 @@ return [
 	'publish_start'					=> 'Publish Start',
 	'script'						=> 'Script',
 	'setting'						=> 'Setting|Settings',
-	'site'							=> 'Site',
+	'site'							=> 'Site|Sites',
 	'summary'						=> 'Summary',
 	'tech_status'					=> 'Technology Status|Technology Statuses',
 	'tenant'						=> 'Tenant',

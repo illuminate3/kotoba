@@ -101,6 +101,7 @@ return [
 	'value'							=> 'Value',
 	'version'						=> 'Version',
 	'website'						=> 'Web Site',
+	'zone'							=> 'Zone|Zones',
 
 
 ];
