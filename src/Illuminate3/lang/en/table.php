@@ -5,6 +5,7 @@
 
 return [
 
+	'alert'							=> 'Alert|Alerts',
 	'action'						=> 'Action|Actions',
 	'active'						=> 'Active',
 	'activated'						=> 'Activated',
