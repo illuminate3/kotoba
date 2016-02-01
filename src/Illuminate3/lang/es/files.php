@@ -9,10 +9,8 @@ return [
 	'file'							=> 'File|Files',
 	'media'							=> 'Media',
 
-// ask
-// 	'ask' => [
-// 		'isSupervisior'				=> 'Supervisior ?',
-// 	],
+// phrases
+	'default_file_zize'				=> 'Default File Size',
 
 // success
 	'success' => [
