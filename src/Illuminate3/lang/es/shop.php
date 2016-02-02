@@ -4,6 +4,7 @@
 
 return [
 
+	'account'						=> 'Account|Accounts',
 	'adjusted'						=> 'Adjusted',
 	'allergen'						=> 'Allergens|Allergens',
 	'aisle'							=> 'Aisle|Aisles',
