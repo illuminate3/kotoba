@@ -48,6 +48,7 @@ return [
 // ask
 	'ask' => [
 		'isSupervisior'						=> 'Supervisior ?',
+		'isTeacher'							=> 'Teacher ?',
 	],
 
 // success
