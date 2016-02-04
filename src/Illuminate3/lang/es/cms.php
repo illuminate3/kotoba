@@ -15,6 +15,7 @@ return [
 	'dashboard'						=> 'Dashboard',
 	'deleted_pages'					=> 'Deleted Pages',
 	'draft'							=> 'Draft|Drafts',
+	'google_analytics'				=> 'Google Analytics',
 	'image'							=> 'Image|Images',
 	'in_print'						=> 'in Print',
 	'is_banner'						=> 'Banner',
