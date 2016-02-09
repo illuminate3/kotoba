@@ -5,7 +5,7 @@
 
 return [
 
-	'address'						=> 'Address|Addresses',
+	'address'						=> 'Address',
 	'address_1'						=> 'Primary Address',
 	'address_2'						=> 'Secondary Address',
 	'city'							=> 'City',
@@ -17,6 +17,7 @@ return [
 	'email'							=> 'Email',
 	'email_1'						=> 'Primary Email',
 	'email_2'						=> 'Secondary Email',
+	'extension'						=> 'Extension',
 	'first_name'					=> 'First Name',
 	'last_login'					=> 'Last Login',
 	'last_name'						=> 'Last Name',
