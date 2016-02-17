@@ -110,7 +110,7 @@ return [
 	'truck'							=> 'Truck|Trucks',
 	'trucking'						=> 'Trucking Company|Trucking Companies',
 	'unit'							=> 'Unit|Units',
-	'vendor'						=> 'Vendor',
+	'vendor'						=> 'Vendor|Vendors',
 	'vendor_catalog'				=> 'Vendor Catalog|Vendor Catalogs',
 	'zone'							=> 'Zone|Zones',
 
