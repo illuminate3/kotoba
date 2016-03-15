@@ -228,6 +228,9 @@ return [
 		'ticket_update'						=> 'The Ticket was successfully updated.',
 		'ticket_status_create'				=> 'The Status was successfully created.',
 		'ticket_status_update'				=> 'The Status was successfully updated.',
+		'type_create'						=> 'The Type was successfully created.',
+		'type_delete'						=> 'The Type was successfully deleted.',
+		'type_update'						=> 'The Type was successfully updated.',
 	],
 
 
