@@ -6,6 +6,7 @@ return [
 
 	'account'						=> 'Account|Accounts',
 	'adjusted'						=> 'Adjusted',
+	'agent'							=> 'Agent|Agents',
 	'allergen'						=> 'Allergens|Allergens',
 	'aisle'							=> 'Aisle|Aisles',
 	'amount'						=> 'Amount',
@@ -41,6 +42,7 @@ return [
 	'has_rack'						=> 'Does this area have racks?',
 	'inbound'						=> 'Inbound',
 	'ingredient'					=> 'Ingredient|Ingredients',
+	'insurance'						=> 'Insurance',
 	'inventory'						=> 'Inventory',
 	'invoice'						=> 'Invoice|Invoices',
 	'item'							=> 'Item|Items',
