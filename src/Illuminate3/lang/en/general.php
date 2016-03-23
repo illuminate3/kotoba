@@ -105,6 +105,7 @@ return [
 	'open'									=> 'Open',
 	'on'									=> 'On',
 	'order'									=> 'Order',
+	'other'									=> 'Other',
 	'over'									=> 'Over',
 	'owner'									=> 'Owner',
 	'parent'								=> 'Parent',
