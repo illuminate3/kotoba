@@ -140,6 +140,7 @@ return [
 	'time'									=> 'Time',
 	'title'									=> 'Title',
 	'to'									=> 'to',
+	'took'									=> 'Took',
 	'type'									=> 'Type|Types',
 	'under'									=> 'Under',
 	'url'									=> 'URL',
