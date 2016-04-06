@@ -79,6 +79,7 @@ return [
 	'reference_number'				=> 'Reference Number',
 	'resource'						=> 'Resource',
 	'role'							=> 'Role|Roles',
+	'rule'							=> 'Rule|Rules',
 	'room'							=> 'Room|Rooms',
 	'scope'							=> 'Scope|Scopes',
 	'section'						=> 'Section|Sections',

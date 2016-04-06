@@ -15,6 +15,7 @@ return [
 	'communication'					=> 'Communication',
 	'contact'						=> 'Contact|Contacts',
 	'contact_information'			=> 'Contact Information',
+	'contract_information'			=> 'Contract Information',
 	'contract'						=> 'Contract|Contracts',
 	'department'					=> 'Department|Departments',
 	'directory'						=> 'Directory',
