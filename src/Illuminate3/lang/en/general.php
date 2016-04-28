@@ -81,7 +81,7 @@ return [
 	'last_login'							=> 'Last Login',
 	'last_visit'							=> 'Last Visit',
 	'layout'								=> 'Layout',
-	'location'								=> 'Location',
+	'location'								=> 'Location|Locations',
 	'log'									=> 'Log|Logs',
 	'mail'									=> 'Mail',
 	'manage'								=> 'Manage',
