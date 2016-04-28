@@ -36,6 +36,7 @@ return [
 	'close'									=> 'Close',
 	'closed'								=> 'Closed',
 	'comment'								=> 'Comment|Comments',
+	'code'									=> 'Clode',
 	'code_type'								=> 'Code Type|Code Types',
 	'confirmed'								=> 'Confirmed',
 	'contact'								=> 'Contact',
