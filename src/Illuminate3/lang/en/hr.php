@@ -72,6 +72,11 @@ return [
 		'isTeacher'					=> 'Teacher ?',
 	],
 
+// error
+	'error' => [
+		'attendance_email'			=> 'Attendance Request Email can not be Sent.',
+	],
+
 // success
 	'success' => [
 		'attendance_email'			=> 'Attendance Request Email has been Sent.',
