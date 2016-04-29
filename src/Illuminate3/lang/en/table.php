@@ -14,6 +14,7 @@ return [
 	'asset'							=> 'Asset',
 	'asset_status'					=> 'Asset Status',
 	'asset_tag'						=> 'Asset Tag',
+	'attended'						=> 'Attended',
 	'attendee'						=> 'Attendee|Ateendees',
 	'audience'						=> 'Audience',
 	'author'						=> 'Author',

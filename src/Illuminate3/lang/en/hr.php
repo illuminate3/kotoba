@@ -6,6 +6,7 @@
 return [
 
 	'attendance'					=> 'Attendance',
+	'attended'						=> 'Attended',
 	'attendee'						=> 'Attendee|Attendees',
 	'audience'						=> 'Audience',
 	'blood'							=> 'Blood',
