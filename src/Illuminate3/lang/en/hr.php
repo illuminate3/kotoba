@@ -76,6 +76,7 @@ return [
 // error
 	'error' => [
 		'attendance_email'			=> 'Attendance Request Email can not be Sent.',
+		'enrollment_over'			=> 'Enrollment has finsihed.',
 	],
 
 // success
