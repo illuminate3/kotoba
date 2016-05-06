@@ -144,12 +144,18 @@ return [
 		'seminar_join'				=> 'Enrolled in Seminar',
 		'seminar_update'			=> 'The Seminar was successfully updated.',
 		'seminar_withdraw'			=> 'Wihdrew from Seminar',
+		'session_start'				=> 'The Seminar has been set to Start',
 		'site_create'				=> 'The Site was successfully created.',
 		'site_update'				=> 'The Site was successfully updated.',
 		'site_deelte'				=> 'The Site was successfully deleted.',
 		'subject_create'			=> 'The Subject was successfully created.',
 		'subject_delete'			=> 'The Subject was successfully deleted.',
 		'subject_update'			=> 'The Subject was successfully updated.',
+	],
+
+// warning
+	'warn' => [
+		'session_start'				=> 'Session has been started',
 	],
 
 
