@@ -140,6 +140,7 @@ return [
 		'rule_delete'				=> 'The Rule was successfully deleted.',
 		'rule_update'				=> 'The Rule was successfully updated.',
 		'seminar_create'			=> 'The Seminar was successfully created.',
+		'seminar_attended'			=> 'Seminar attendance has been recorded',
 		'seminar_delete'			=> 'The Seminar was successfully deleted.',
 		'seminar_join'				=> 'Enrolled in Seminar',
 		'seminar_update'			=> 'The Seminar was successfully updated.',
