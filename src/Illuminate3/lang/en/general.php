@@ -94,6 +94,7 @@ return [
 	'misc'									=> 'Miscellaneous',
 	'module'								=> 'Module|Modules',
 	'move'									=> 'Move|Moves',
+	'moved'									=> 'Moved',
 	'name'									=> 'Name',
 	'never_activated'						=> 'Never Activated',
 	'never_visited'							=> 'Never Visited',
