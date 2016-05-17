@@ -42,6 +42,7 @@ return [
 	'empty'							=> 'Empty',
 	'enabled'						=> 'Enabled',
 	'featured'						=> 'Featured',
+	'filename'						=> 'File Name',
 	'first_name'					=> 'First Name',
 	'groups'						=> 'Groups',
 	'hour'							=> 'Hour|Hours',

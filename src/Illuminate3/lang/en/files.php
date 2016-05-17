@@ -7,6 +7,7 @@ return [
 
 	'document'						=> 'Document|Documents',
 	'file'							=> 'File|Files',
+	'filename'						=> 'File Name',
 	'media'							=> 'Media',
 
 // phrases
