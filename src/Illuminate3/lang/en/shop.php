@@ -153,6 +153,7 @@ return [
 // error
 	'error' => [
 		'bulk_create'				=> 'Asset Tags and Serial Numbers do not match.',
+		'order_made'				=> 'Order has been processed',
 		'pallet_created'			=> 'Pallets have been created',
 		'pallet_not_created'		=> 'Pallets have not been created',
 		'shipping_delete'			=> 'Pallets have been created',
