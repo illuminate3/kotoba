@@ -142,6 +142,7 @@ return [
 	'stop'									=> 'Stop',
 	'success'								=> 'Success',
 	'super_user'							=> 'Super User',
+	'support'								=> 'Support',
 	'template'								=> 'Template|Templates',
 	'thru'									=> 'Thru',
 	'ticket'								=> 'Ticket|Tickets',
