@@ -5,7 +5,6 @@
 
 return [
 
-	'alert'									=> 'Alert|Alerts',
 	'active'								=> 'Active',
 	'activate'								=> 'Activate',
 	'activated'								=> 'Activated',
@@ -15,6 +14,7 @@ return [
 	'administration'						=> 'Administration',
 	'alert'									=> 'Alert|Alerts',
 	'all'									=> 'All',
+	'all_rights_reserved'					=> 'All rights reserved.',
 	'area'									=> 'Area|Areas',
 	'assigned'								=> 'Assigned',
 	'attend'								=> 'Attend',
@@ -43,6 +43,7 @@ return [
 	'confirmed'								=> 'Confirmed',
 	'contact'								=> 'Contact',
 	'contact_support'						=> 'Contact Support',
+	'copyright'								=> 'Copyright',
 	'create'								=> 'Create',
 	'created_at'							=> 'Created',
 	'create_category'						=> 'Create Category',
