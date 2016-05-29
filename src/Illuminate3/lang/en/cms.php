@@ -37,6 +37,7 @@ return [
 	'news_status'					=> 'News Status|News Statuses',
 	'no_parent'						=> 'No Parent',
 	'page'							=> 'Page|Pages',
+	'panel'							=> 'Panel',
 	'parent'						=> 'Parent',
 	'position'						=> 'Position',
 	'print_status'					=> 'Print Status|Print Statuses',

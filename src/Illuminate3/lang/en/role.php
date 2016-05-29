@@ -5,6 +5,7 @@
 
 return [
 
+	'admin'							=> 'Admin',
 	'level'							=> 'Level',
 	'role'							=> 'Role|Roles',
 	'role_permissions'				=> 'Role Permissions',
