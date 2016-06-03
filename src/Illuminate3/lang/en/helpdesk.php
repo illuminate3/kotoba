@@ -2,7 +2,34 @@
 
 return [
 
+	'admin_panel'							=> 'Admin Panel',
+	'agent_panel'							=> 'Agent Panel',
+	'control_panel'							=> 'Control Panel',
 	'helpdesk'								=> 'Help Desk',
+	'knowledge_base'						=> 'Knowledge Base',
+
+
+	'profile'								=> 'Profile',
+	'change_password'						=> 'Change Password',
+	'sign_out'								=> 'Sign Out',
+	'Tickets'								=> 'TICKETS',
+	'inbox'									=> 'Inbox',
+	'my_tickets'							=> 'My Tickets',
+	'unassigned'							=> 'Unassigned',
+	'trash'									=> 'Trash',
+	'Updates'								=> 'UPDATES',
+	'no_new_updates'						=> 'No new Updates',
+	'check_for_updates'						=> 'Check for Updates',
+	'open'									=> 'Open',
+	'inprogress'							=> 'Inprogress',
+	'closed'								=> 'Closed',
+	'Departments'							=> 'DEPARTMENTS',
+	'tools'									=> 'Tools',
+	'canned'								=> 'Canned',
+	'loading'								=> 'Loading',
+	'ratings'								=> 'Ratings',
+	'please_rate'							=> 'Please rate:',
+	'ticket_ratings'							=> 'TICKET RATING',
 
 
 
@@ -89,7 +116,6 @@ return [
 	  | customize your views to better match your application.
 	  |
 	 */
-	'admin_panel' => 'Admin Panel',
 	/*
 	  |--------------------------------------
 	  |  Emails Create Page
@@ -633,29 +659,6 @@ return [
 	  | customize your views to better match your application.
 	  |
 	 */
-	'agent_panel'       => 'Agent Panel',
-	'profile'           => 'Profile',
-	'change_password'   => 'Change Password',
-	'sign_out'          => 'Sign Out',
-	'Tickets'           => 'TICKETS',
-	'inbox'             => 'Inbox',
-	'my_tickets'        => 'My Tickets',
-	'unassigned'        => 'Unassigned',
-	'trash'             => 'Trash',
-	'Updates'           => 'UPDATES',
-	'no_new_updates'    => 'No new Updates',
-	'check_for_updates' => 'Check for Updates',
-	'open'              => 'Open',
-	'inprogress'        => 'Inprogress',
-	'closed'            => 'Closed',
-	'Departments'       => 'DEPARTMENTS',
-	'tools'             => 'Tools',
-	'canned'            => 'Canned',
-	'knowledge_base'    => 'Knowledge Base',
-	'loading'           => 'Loading',
-	'ratings'           => 'Ratings',
-	'please_rate'       => 'Please rate:',
-	'ticket_ratings'    => 'TICKET RATING',
 	/*
 	  |-----------------------------------------------
 	  |  Profile
@@ -853,16 +856,22 @@ return [
 	'be_right_back'                                   => 'Be right back',
 	'sorry'                                           => 'Sorry',
 	'we_are_working_on_it'                            => 'We are working on it',
-	'category'                                        => 'Category',
-	'addcategory'                                     => 'Add Category',
-	'allcategory'                                     => 'All Category',
-	'article'                                         => 'Article',
-	'articles'                                        => 'Articles',
-	'addarticle'                                      => 'Add Article',
-	'allarticle'                                      => 'All Article',
-	'pages'                                           => 'Pages',
-	'addpages'                                        => 'Add Pages',
-	'allpages'                                        => 'All Pages',
+
+
+
+//	'admin_panel'							=> 'Admin Panel',
+
+	'category'								=> 'Category',
+	'addcategory'							=> 'Add Category',
+	'allcategory'							=> 'All Categories',
+	'article'								=> 'Article',
+	'articles'								=> 'Articles',
+	'addarticle'							=> 'Add Article',
+	'allarticle'							=> 'All Articles',
+	'pages'									=> 'Pages',
+	'addpages'								=> 'Add Pages',
+	'allpages'								=> 'All Pages',
+
 	'widgets'                                         => 'Widgets',
 	'footer1'                                         => 'Footer 1',
 	'footer2'                                         => 'Footer 2',
@@ -870,6 +879,7 @@ return [
 	'footer4'                                         => 'Footer 4',
 	'sidewidget1'                                     => 'Side Widget 1',
 	'sidewidget2'                                     => 'Side Widget 2',
+
 	'comments'                                        => 'Comments',
 	'settings'                                        => 'Settings',
 	'parent'                                          => 'Parent',
