@@ -89,6 +89,9 @@ return [
 // success
 	'success' => [
 		'repaired'					=> 'Category Tree has been repaired',
+		'article_create'			=> 'The Article was successfully created.',
+		'article_delete'			=> 'The Article was successfully deleted.',
+		'article_update'			=> 'The Article was successfully updated.',
 		'category_create'			=> 'The Category was successfully created.',
 		'category_delete'			=> 'The Category was successfully deleted.',
 		'category_update'			=> 'The Category was successfully updated.',

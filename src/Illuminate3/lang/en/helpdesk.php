@@ -902,7 +902,7 @@ return [
 	'slug'                                                                     => 'Slug',
 	'read_more'                                                                => 'Read more',
 	'view_all'                                                                 => 'View All',
-//	'categories'=> 'Categories',
+	'categories'=> 'Categories',
 	'need_more_support'                                                        => 'Need more support',
 	'if_you_did_not_find_an_answer_please_raise_a_ticket_describing_the_issue' => 'If you did not find an answer, please raise a ticket describing the issue',
 	'have_a_question?_type_your_search_term_here'                              => 'Have a question? Type your search term here...',
