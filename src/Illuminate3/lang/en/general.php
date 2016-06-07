@@ -112,6 +112,7 @@ return [
 	'number'								=> 'Number|Numbers',
 	'of'									=> 'Of',
 	'off'									=> 'Off',
+	'old'									=> 'Old',
 	'open'									=> 'Open',
 	'on'									=> 'On',
 	'order'									=> 'Order',

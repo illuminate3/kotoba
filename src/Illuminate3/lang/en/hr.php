@@ -66,6 +66,7 @@ return [
 	'supervisor'					=> 'Supervisor',
 	'staff'							=> 'Staff',
 	'teacher'						=> 'Teacher|Teachers',
+	'transfer'						=> 'Transfer|Transfers',
 
 // ask
 	'ask' => [
