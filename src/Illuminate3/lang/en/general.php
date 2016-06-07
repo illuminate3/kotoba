@@ -15,6 +15,7 @@ return [
 	'alert'									=> 'Alert|Alerts',
 	'all'									=> 'All',
 	'all_rights_reserved'					=> 'All rights reserved.',
+	'and'									=> 'and',
 	'area'									=> 'Area|Areas',
 	'assigned'								=> 'Assigned',
 	'attend'								=> 'Attend',
