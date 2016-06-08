@@ -39,6 +39,7 @@ return [
 	'page'							=> 'Page|Pages',
 	'panel'							=> 'Panel',
 	'parent'						=> 'Parent',
+	'portal'						=> 'Portal',
 	'position'						=> 'Position',
 	'print_status'					=> 'Print Status|Print Statuses',
 	'publish'						=> 'Publish',

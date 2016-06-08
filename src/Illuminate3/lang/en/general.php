@@ -36,6 +36,7 @@ return [
 	'checked'								=> 'Checked',
 	'class'									=> 'Class',
 	'clear'									=> 'Clear',
+	'clock'									=> 'Clock',
 	'close'									=> 'Close',
 	'closed'								=> 'Closed',
 	'comment'								=> 'Comment|Comments',
