@@ -126,6 +126,7 @@ return [
 	'primary'								=> 'Primary',
 	'print'									=> 'Print',
 	'priority'								=> 'Priority|Priorities',
+	'private'								=> 'Private',
 	'reminder'								=> 'Reminder',
 	'report'								=> 'Report|Reports',
 	'resource'								=> 'Resource',
