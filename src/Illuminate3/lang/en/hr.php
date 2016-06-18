@@ -5,6 +5,7 @@
 
 return [
 
+	'agent'							=> 'Agent|Agents',
 	'attendance'					=> 'Attendance',
 	'attended'						=> 'Attended',
 	'attendee'						=> 'Attendee|Attendees',
