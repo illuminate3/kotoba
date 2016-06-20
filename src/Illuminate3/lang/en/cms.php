@@ -41,6 +41,7 @@ return [
 	'parent'						=> 'Parent',
 	'portal'						=> 'Portal',
 	'position'						=> 'Position',
+	'post'							=> 'Post',
 	'print_status'					=> 'Print Status|Print Statuses',
 	'publish'						=> 'Publish',
 	'published'						=> 'Published',
