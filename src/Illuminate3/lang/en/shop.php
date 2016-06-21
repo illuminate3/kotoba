@@ -6,6 +6,7 @@ return [
 
 	'account'								=> 'Account|Accounts',
 	'accumulated'							=> 'Accumulated',
+	'acquired'								=> 'Acquired',
 	'adjusted'								=> 'Adjusted',
 	'agent'									=> 'Agent|Agents',
 	'allergen'								=> 'Allergens|Allergens',
