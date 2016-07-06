@@ -26,6 +26,7 @@ return [
 	'edit'									=> 'Edit',
 	'enroll'								=> 'Enroll',
 	'enter'									=> 'Enter',
+	'follow'								=> 'Follow',
 	'forgot_password'						=> 'Forgot Password',
 	'in_store'								=> 'In Store Payment',
 	'link'									=> 'Link|Links',
