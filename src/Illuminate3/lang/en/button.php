@@ -8,6 +8,7 @@ return [
 	'action'								=> 'Action',
 	'activate'								=> 'Activate',
 	'add'									=> 'Add',
+	'all'									=> 'All',
 	'admin'									=> 'Administrator',
 	'back'									=> 'Back',
 	'bulk'									=> 'Bulk',
