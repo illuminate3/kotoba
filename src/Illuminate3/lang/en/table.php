@@ -78,6 +78,7 @@ return [
 	'position'						=> 'Position',
 	'presenter'						=> 'Presenter|Presenters',
 	'priority'						=> 'Priority',
+	'private'						=> 'Private',
 	'reference_number'				=> 'Reference Number',
 	'resource'						=> 'Resource',
 	'role'							=> 'Role|Roles',
