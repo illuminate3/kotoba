@@ -3,7 +3,6 @@
 return [
 
 	'admin_panel'							=> 'Admin Panel',
-	'agent_panel'							=> 'Agent Panel',
 
 
 	'profile'								=> 'Profile',

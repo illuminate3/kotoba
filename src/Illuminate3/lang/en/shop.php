@@ -39,6 +39,7 @@ return [
 	'delivery'								=> 'Delivery',
 	'depreciable'							=> 'Depreciable',
 	'depreciation'							=> 'Depreciation',
+	'device'								=> 'Device',
 	'disposal'								=> 'Disposal',
 	'estimate'								=> 'Estimate',
 	'expected_date'							=> 'Expected Date',

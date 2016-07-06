@@ -6,6 +6,7 @@
 return [
 
 // phrases
+	'agent_panel'							=> 'Agent Panel',
 	'control_panel'							=> 'Control Panel',
 	'helpdesk'								=> 'Help Desk',
 	'knowledge_base'						=> 'Knowledge Base',
