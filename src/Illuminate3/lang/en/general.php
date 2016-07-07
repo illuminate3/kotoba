@@ -34,6 +34,7 @@ return [
 	'category'								=> 'Category|Categories',
 	'change'								=> 'Change',
 	'changed'								=> 'Changed',
+	'character'								=> 'Character|Characters',
 	'check'									=> 'Check',
 	'checked'								=> 'Checked',
 	'class'									=> 'Class',
@@ -103,6 +104,7 @@ return [
 	'manage'								=> 'Manage',
 	'management'							=> 'Management',
 	'max'									=> 'Max',
+	'mention'								=> 'Mention|Mentions',
 	'method'								=> 'Method',
 	'message'								=> 'Message|messages',
 	'misc'									=> 'Miscellaneous',
@@ -165,7 +167,7 @@ return [
 	'title'									=> 'Title',
 	'to'									=> 'to',
 	'took'									=> 'Took',
-	'tweet'									=> 'Tweet',
+	'tweet'									=> 'Tweet|Tweets',
 	'twitter'								=> 'Twitter',
 	'type'									=> 'Type|Types',
 	'updated_at'							=> 'Updated',
@@ -281,6 +283,7 @@ return [
 		'type_create'						=> 'The Type was successfully created.',
 		'type_delete'						=> 'The Type was successfully deleted.',
 		'type_update'						=> 'The Type was successfully updated.',
+		'twitter_send'						=> 'The Tweet was successfully posted.',
 	],
 
 

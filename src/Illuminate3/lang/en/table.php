@@ -28,6 +28,7 @@ return [
 	'check'							=> 'Check',
 	'code'							=> 'Code|Codes',
 	'confirmed'						=> 'Confirmed',
+	'content'						=> 'Content',
 	'counter'						=> 'Counter',
 	'created'						=> 'Created',
 	'created_at'					=> 'Created',
