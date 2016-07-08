@@ -17,4 +17,11 @@ return [
 	'submit_a_ticket_wording'				=> 'If you still need help, please create a ticket.',
 
 
+// presenter
+	'problem' => [
+		'device'							=> 'If the problem is with a device, select one:',
+		'other'								=> 'If the problem is not with a device, select one:',
+	],
+
+
 ];
