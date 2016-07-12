@@ -90,6 +90,7 @@ return [
 	'information'							=> 'Information',
 	'introduction'							=> 'Introduction',
 	'intended'								=> 'Intended',
+	'instagram'								=> 'Instagram',
 	'invitation'							=> 'Invitation',
 	'joined'								=> 'Joined',
 	'last'									=> 'Last',
