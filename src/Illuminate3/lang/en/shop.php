@@ -18,6 +18,7 @@ return [
 	'available'								=> 'Available',
 	'balance'								=> 'Balance',
 	'barcode'								=> 'Barcode',
+	'best_used_by'							=> 'Best Used By',
 	'build'									=> 'Build|Builds',
 	'built'									=> 'Built',
 	'card'									=> 'Credit Card',
