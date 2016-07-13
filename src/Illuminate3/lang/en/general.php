@@ -134,6 +134,7 @@ return [
 	'parent'								=> 'Parent',
 	'period'								=> 'Period',
 	'personal_information'					=> 'Personal Information',
+	'post'									=> 'Post|Posts',
 	'preview'								=> 'Preview',
 	'primary'								=> 'Primary',
 	'print'									=> 'Print',
