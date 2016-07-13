@@ -76,6 +76,7 @@ return [
 	'emmergency'							=> 'Emergency',
 	'error'									=> 'Error',
 	'export'								=> 'Export',
+	'facebook'								=> 'Facebook',
 	'fee'									=> 'Fee|Fees',
 	'finish'								=> 'Finish',
 	'forward'								=> 'Forward',
