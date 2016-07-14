@@ -2,9 +2,6 @@
 
 return [
 
-	'admin_panel'							=> 'Admin Panel',
-
-
 	'profile'								=> 'Profile',
 	'change_password'						=> 'Change Password',
 	'sign_out'								=> 'Sign Out',
