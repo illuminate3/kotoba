@@ -10,6 +10,7 @@ return [
 	'active'						=> 'Active',
 	'activated'						=> 'Activated',
 	'address'						=> 'Address',
+	'allow_direct'					=> 'Allow Direct',
 	'area'							=> 'Area|Areas',
 	'asset'							=> 'Asset',
 	'asset_status'					=> 'Asset Status',

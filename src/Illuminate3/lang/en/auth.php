@@ -8,6 +8,7 @@ return [
 	'activation'					=> 'Activation',
 	'ask_account'					=> 'Don\'t have an account?',
 	'allow'							=> 'Allow',
+	'allow_direct'					=> 'Allow Direct',
 	'confirmation'					=> 'Confirmation',
 	'deny'							=> 'Deny',
 	'forgot_password'				=> 'Forgot Password',
