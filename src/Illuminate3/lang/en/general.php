@@ -74,6 +74,7 @@ return [
 	'enrollment'							=> 'Enrollment',
 	'email'									=> 'Email',
 	'emmergency'							=> 'Emergency',
+	'emoty'									=> '---',
 	'error'									=> 'Error',
 	'export'								=> 'Export',
 	'facebook'								=> 'Facebook',
