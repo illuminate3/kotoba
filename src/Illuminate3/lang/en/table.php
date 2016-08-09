@@ -77,6 +77,7 @@ return [
 	'note'							=> 'Note',
 	'number_of_users'				=> '# of Users',
 	'online'						=> 'Online',
+	'open'							=> 'Open',
 	'order'							=> 'Order',
 	'permissions'					=> 'Permissions',
 	'phone'							=> 'Phone Number',

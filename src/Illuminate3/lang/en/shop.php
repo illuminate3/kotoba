@@ -122,6 +122,7 @@ return [
 	'status_receive'						=> 'Receiving Status|Receiving Statuses',
 	'status_ship'							=> 'Shipping Status|Shipping Statuses',
 	'stock_um'								=> 'Stock Unit Measurement',
+	'tag'									=> 'Tag',
 	'tech_status'							=> 'Tech Status|Tech Statuses',
 	'total'									=> 'Total',
 	'total_amount'							=> 'Total Amount',
