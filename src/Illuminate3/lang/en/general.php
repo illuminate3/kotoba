@@ -156,6 +156,7 @@ return [
 	'setting'								=> 'Setting|Settings',
 	'slug'									=> 'Slug',
 	'sms'									=> 'SMS',
+	'social'								=> 'Social',
 	'source'								=> 'Source',
 	'staff'									=> 'Staff',
 	'start'									=> 'Start',
