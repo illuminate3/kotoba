@@ -12,6 +12,7 @@ return [
 	'class'							=> 'Class',
 	'cms'							=> 'CMS',
 	'content'						=> 'Content',
+	'comment'						=> 'Comment|Comments',
 	'dashboard'						=> 'Dashboard',
 	'deleted_pages'					=> 'Deleted Pages',
 	'draft'							=> 'Draft|Drafts',

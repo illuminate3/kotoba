@@ -872,7 +872,6 @@ return [
 	'sidewidget1'                                     => 'Side Widget 1',
 	'sidewidget2'                                     => 'Side Widget 2',
 
-	'comments'                                        => 'Comments',
 	'settings'                                        => 'Settings',
 	'parent'                                          => 'Parent',
 	'description'                                     => 'Description',
