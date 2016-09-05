@@ -254,6 +254,9 @@ return [
 
 // success
 	'success' => [
+		'create'							=> 'A new Item created.',
+		'delete'							=> 'Item has been deleted',
+		'update'							=> 'Item has been updated.',
 		'canned_create'						=> 'The Canned Response was successfully created.',
 		'canned_delete'						=> 'The Canned Response was successfully deleted.',
 		'canned_update'						=> 'The Canned Response was successfully updated.',
